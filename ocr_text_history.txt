@@ -1,0 +1,2985 @@
+create the object so constant questions by category is going to be
+equal to just an empty object to begin with and then we can
+create the object so constant questions by category is going to be
+equal to just an empty object to begin with and then we can loop
+equal to just an empty object to begin with and then we can loop
+over
+equal to just an empty object to begin with and then we can loop
+over the questions
+equal to just an empty object to begin with and then we can loop
+over the questions. It's a questions
+equal to just an empty object to begin with and then we can loop
+over the questions. It's a questions dot
+equal to just an empty object to begin with and then we can loop
+over the questions. It's a questions dot four each
+equal to just an empty object to begin with and then we can loop
+over the questions. It's a questions dot four each and for each
+over the questions. It's a questions dot four each and for each
+question
+equal to just an empty object to begin with and then we can loop
+over the questions. It's a questions .4 each and for each question.
+over the questions. It's a questions .4 each and for each question.
+and make
+over the questions. It's a questions .4 each and for each question.
+and make an arrow function
+and make an arrow function
+So
+and make an arrow function
+So what do we need
+and make an arrow function
+So what do we need to do here
+and make an arrow function
+So what do we need to do here? So we
+and make an arrow function
+So what do we need to do here? So we need to
+and make an arrow function
+So what do we need to do here? So we need to add
+and make an arrow function
+So what do we need to do here? So we need to add two
+and make an arrow function
+So what do we need to do here? So we need to add two questions
+So what do we need to do here? So we need to add two questions
+by categ
+So what do we need to do here? So we need to add two questions
+by category
+So what do we need to do here? So we need to add two questions
+by category at
+So what do we need to do here? So we need to add two questions
+by category at the
+by category at the
+the
+by category at the
+the category
+by category at the
+the category as
+by category at the
+the category as the like
+by category at the
+the category as the like the key
+by category at the
+the category as the like the key but we need
+by category at the
+the category as the like the key but we need to know if
+by category at the
+the category as the like the key but we need to know if that
+the category as the like the key but we need to know if that's
+already
+the category as the like the key but we need to know if that's
+already there or not
+the category as the like the key but we need to know if that's
+already there or not. So
+the category as the like the key but we need to know if that's
+already there or not so we can say
+the category as the like the key but we need to know if that's
+already there or not so we can say if
+the category as the like the key but we need to know if that's
+already there or not so we can say if quest
+the category as the like the key but we need to know if that's
+already there or not so we can say if questions
+the category as the like the key but we need to know if that's
+already there or not so we can say if questions by
+the category as the like the key but we need to know if that's
+already there or not so we can say if questions by category
+the category as the like the key but we need to know if that's
+already there or not so we can say if questions by category and we
+already there or not so we can say if questions by category and we
+need
+already there or not so we can say if questions by category and we
+need to do
+already there or not so we can say if questions by category and we
+need to do | guess has
+already there or not so we can say if questions by category and we
+need to do | guess has owned properties
+already there or not so we can say if questions by category and we
+need to do | guess has owned properties that we can say
+already there or not so we can say if questions by category and we
+need to do | guess has owned properties that we can say if
+already there or not so we can say if questions by category and we
+need to do | guess has owned properties that we can say if it's
+need to do | guess has owned properties that we can say if it's
+the object
+need to do | guess has owned properties that we can say if it's
+the object dot has
+need to do | guess has owned properties that we can say if it's
+the object dot has own
+need to do | guess has owned properties that we can say if it's
+the object dot has own right.
+the object dot has own right.
+it
+the object dot has own right.
+it's just quest
+the object dot has own right.
+it's just questioned by
+the object dot has own right.
+it's just questioned by category
+the object dot has own right.
+it's just questioned by category that has
+the object dot has own right.
+it's just questioned by category that has own property
+the object dot has own right.
+it's just questioned by category that has own property always forget
+it's just questioned by category that has own property always forget
+if it's
+it's just questioned by category that has own property always forget
+if it's part of the
+it's just questioned by category that has own property always forget
+if it's part of the object
+it's just questioned by category that has own property always forget
+if it's part of the object class or just
+it's just questioned by category that has own property always forget
+if it's part of the object class or just like this
+it's just questioned by category that has own property always forget
+if it's part of the object class or just like this but
+it's just questioned by category that has own property always forget
+if it's part of the object class or just like this but has own
+it's just questioned by category that has own property always forget
+if it's part of the object class or just like this but has own property
+if it's part of the object class or just like this but has own property |
+think it's this
+if it's part of the object class or just like this but has own property |
+think it's this we'll see in a moment
+if it's part of the object class or just like this but has own property |
+think it's this we'll see in a moment | guess see
+if it's part of the object class or just like this but has own property |
+think it's this we'll see in a moment | guess see if this works
+if it's part of the object class or just like this but has own property |
+think it's this we'll see in a moment | guess see if this works So we
+think it's this we'll see in a moment | guess see if this works So we
+need to take
+think it's this we'll see in a moment | guess see if this works So we
+need to take in
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the question
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the question category
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the question category so we can
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the question category so we can say
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the question category so we can say question
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the question category so we can say question dot
+need to take in the question category so we can say question dot
+category
+need to take in the question category so we can say question dot
+category O K
+need to take in the question category so we can say question dot
+category OK
+category OK
+so
+category OK
+so this is going to
+category OK
+so this is going to be the case
+category OK
+so this is going to be the case where
+category OK
+so this is going to be the case where we already
+category OK
+so this is going to be the case where we already found
+category OK
+so this is going to be the case where we already found some
+so this is going to be the case where we already found some
+question
+so this is going to be the case where we already found some
+question that is
+so this is going to be the case where we already found some
+question that is in this category
+so this is going to be the case where we already found some
+question that is in this category and in
+so this is going to be the case where we already found some
+question that is in this category and in that case
+so this is going to be the case where we already found some
+question that is in this category and in that case we can say
+question that is in this category and in that case we can say
+questions by
+question that is in this category and in that case we can say
+questions by categ
+question that is in this category and in that case we can say
+questions by category
+question that is in this category and in that case we can say
+questions by category at
+question that is in this category and in that case we can say
+questions by category at question.
+questions by category at question.
+dot category
+questions by category at question.
+dot category is
+dot category is
+going
+dot category is
+going to
+dot category is
+going to need
+dot category is
+going to need to
+dot category is
+going to need to add
+dot category is
+going to need to add this
+dot category is
+going to need to add this value
+dot category is
+going to need to add this value. So | guess we can use
+dot category is
+going to need to add this value. So | guess we can use the
+going to need to add this value. So | guess we can use the push
+function
+going to need to add this value. So | guess we can use the push
+function so we can
+going to need to add this value. So | guess we can use the push
+function so we can push
+going to need to add this value. So | guess we can use the push
+function so we can push the question
+going to need to add this value. So | guess we can use the push
+function so we can push the question OK.
+function so we can push the question OK.
+and in
+function so we can push the question OK.
+and in the other
+function so we can push the question OK.
+and in the other case we need
+function so we can push the question OK.
+and in the other case we need to
+function so we can push the question OK.
+and in the other case we need to create a new
+function so we can push the question OK.
+and in the other case we need to create a new array
+function so we can push the question OK.
+and in the other case we need to create a new array so we can say
+and in the other case we need to create a new array so we can say
+else
+and in the other case we need to create a new array so we can say
+else and
+and in the other case we need to create a new array so we can say
+else and | will copy
+and in the other case we need to create a new array so we can say
+else and | will copy this.
+else and | will copy this.
+so otherwise
+else and | will copy this.
+so otherwise we need
+else and | will copy this.
+so otherwise we need to
+else and | will copy this.
+so otherwise we need to set
+else and | will copy this.
+so otherwise we need to set this
+else and | will copy this.
+so otherwise we need to set this equal to
+else and | will copy this.
+so otherwise we need to set this equal to a newer array
+else and | will copy this.
+so otherwise we need to set this equal to a newer array so we
+so otherwise we need to set this equal to a newer array so we can
+say
+so otherwise we need to set this equal to a newer array so we can
+say anew
+so otherwise we need to set this equal to a newer array so we can
+say a new array with
+so otherwise we need to set this equal to a newer array so we can
+say a new array with the question
+so otherwise we need to set this equal to a newer array so we can
+say a new array with the question in it
+say a new array with the question in it
+OKOK
+say a new array with the question in it
+OKO Kand then
+say a new array with the question in it
+OKO Kand then all we
+say a new array with the question in it
+O KO K and then all we need to do
+say a new array with the question in it
+O KO K and then all we need to do is
+say a new array with the question in it
+O KO K and then all we need to do is just
+say a new array with the question in it
+O KO K and then all we need to do is just return
+say a new array with the question in it
+O KO K and then all we need to do is just return questions
+O KO K and then all we need to do is just return questions by
+category
+OKOK and then all we need to do is just return questions by
+category. | think
+OKOK and then all we need to do is just return questions by
+category. | think so
+OKOK and then all we need to do is just return questions by
+category. | think so return
+OKOK and then all we need to do is just return questions by
+category. | think so return questions
+OKOK and then all we need to do is just return questions by
+category. | think so return questions by
+OKOK and then all we need to do is just return questions by
+category. | think so return questions by category
+OKOK and then all we need to do is just return questions by
+category. | think so return questions by category.
+category. | think so return questions by category.
+OK
+category. | think so return questions by category.
+OK, so now.
+OK, so now.
+we can
+OK, so now.
+we can fetch the
+OK, so now.
+we can fetch the questions
+OK, so now.
+we can fetch the questions and then we can
+OK, so now.
+we can fetch the questions and then we can get them
+OK, so now.
+we can fetch the questions and then we can get them sort of
+OK, so now.
+we can fetch the questions and then we can get them sort of by
+we can fetch the questions and then we can get them sort of by
+category
+we can fetch the questions and then we can get them sort of by
+category. But | think
+we can fetch the questions and then we can get them sort of by
+category. But | think the last thing
+we can fetch the questions and then we can get them sort of by
+category. But | think the last thing we'll need to
+we can fetch the questions and then we can get them sort of by
+category. But | think the last thing we'll need to do is
+we can fetch the questions and then we can get them sort of by
+category. But | think the last thing we'll need to do is actually
+category. But | think the last thing we'll need to do is actually sort of
+appends
+category. But | think the last thing we'll need to do is actually sort of
+appends these
+category. But | think the last thing we'll need to do is actually sort of
+appends these to the page
+category. But | think the last thing we'll need to do is actually sort of
+appends these to the page. So wrong
+category. But | think the last thing we'll need to do is actually sort of
+appends these to the page. So wrong tab
+category. But | think the last thing we'll need to do is actually sort of
+appends these to the page. So wrong tab. So
+category. But | think the last thing we'll need to do is actually sort of
+appends these to the page. So wrong tab. So we'll need to
+appends these to the page. So wrong tab. So we'll need to append
+them
+appends these to the page. So wrong tab. So we'll need to append
+them. | guess
+appends these to the page. So wrong tab. So we'll need to append
+them. | guess like this
+appends these to the page. So wrong tab. So we'll need to append
+them. | guess like this. I'm just
+appends these to the page. So wrong tab. So we'll need to append
+them. | guess like this. I'm just gonna copy
+appends these to the page. So wrong tab. So we'll need to append
+them. | guess like this. I'm just going to copy this
+appends these to the page. So wrong tab. So we'll need to append
+them. | guess like this. I'm just going to copy this, leave
+them. | guess like this. I'm just going to copy this, leave it in a
+comment
+them. | guess like this. I'm just going to copy this, leave it in a
+comment so that
+them. | guess like this. I'm just going to copy this, leave it in a
+comment so that.
+comment so that.
+| don't
+comment so that.
+| don't have to keep going
+comment so that.
+| don't have to keep going back and forth
+comment so that.
+| don't have to keep going back and forth. OK,
+| don't have to keep going back and forth. OK,
+OK
+| don't have to keep going back and forth. OK,
+OK, so
+| don't have to keep going back and forth. OK,
+OK, so let
+| don't have to keep going back and forth. OK,
+OK, so let's create
+| don't have to keep going back and forth. OK,
+OK, so let's create a fun
+| don't have to keep going back and forth. OK,
+OK, so let's create a function for this
+| don't have to keep going back and forth. OK,
+OK, so let's create a function for this as well
+| don't have to keep going back and forth. OK,
+OK, so let's create a function for this as well, so we
+| don't have to keep going back and forth. OK,
+OK, so let's create a function for this as well, so we can just call it
+OK, so let's create a function for this as well, so we can just call it,
+like, create
+OK, so let's create a function for this as well, so we can just call it,
+like, create categories
+OK, so let's create a function for this as well, so we can just call it,
+like, create categories. So first of
+OK, so let's create a function for this as well, so we can just call it,
+like, create categories. So first of all, we want
+OK, so let's create a function for this as well, so we can just call it,
+like, create categories. So first of all, we want to function to
+like, create categories. So first of all, we want to function to make
+this
+like, create categories. So first of all, we want to function to make
+this. And then
+like, create categories. So first of all, we want to function to make
+this. And then we will
+like, create categories. So first of all, we want to function to make
+this. And then we will, in that function
+like, create categories. So first of all, we want to function to make
+this. And then we will, in that function, sort of
+like, create categories. So first of all, we want to function to make
+this. And then we will, in that function, sort of iterate through
+like, create categories. So first of all, we want to function to make
+this. And then we will, in that function, sort of iterate through the
+this. And then we will, in that function, sort of iterate through the
+questions for that
+this. And then we will, in that function, sort of iterate through the
+questions for that category
+this. And then we will, in that function, sort of iterate through the
+questions for that category and create
+this. And then we will, in that function, sort of iterate through the
+questions for that category and create all
+this. And then we will, in that function, sort of iterate through the
+questions for that category and create all these divisions
+this. And then we will, in that function, sort of iterate through the
+questions for that category and create all these divisions.
+questions for that category and create all these divisions.
+Okay
+questions for that category and create all these divisions.
+OK, so let's
+questions for that category and create all these divisions.
+OK, so let's do
+questions for that category and create all these divisions.
+OK, so let's do function
+OK, so let's do function
+create
+OK, so let's do function
+create category
+OK, so let's do function
+create category.
+create category.
+Okay
+create category.
+Okay, so
+create category.
+Okay, so the first thing
+create category.
+Okay, so the first thing we need
+create category.
+Okay, so the first thing we need to do is just
+create category.
+Okay, so the first thing we need to do is just create
+create category.
+Okay, so the first thing we need to do is just create this
+create category.
+Okay, so the first thing we need to do is just create this wrapper
+Okay, so the first thing we need to do is just create this wrapper div
+we have
+Okay, so the first thing we need to do is just create this wrapper div
+we have.
+we have.
+So we can
+we have.
+So we can say
+we have.
+So we can say const
+we have.
+So we can say constiv
+we have.
+So we can Say, constivate.
+So we can Say, constivate.
+document
+So we can Say, constivate.
+document dot
+So we can Say, constivate.
+document dot create
+So we can Say, constivate.
+document dot create elements
+So we can Say, constivate.
+document dot create elements and we
+So we can Say, constivate.
+document dot create elements and we will create
+So we can Say, constivate.
+document dot create elements and we will create a div
+So we can Say, constivate.
+document dot create elements and we will create a div and we can
+document dot create elements and we will create a div and we can
+say
+document dot create elements and we will create a div and we can
+say div
+document dot create elements and we will create a div and we can
+say div dot
+document dot create elements and we will create a div and we can
+say div dot class list
+document dot create elements and we will create a div and we can
+say div dot classlist dot add
+document dot create elements and we will create a div and we can
+say div dot classlist dot add the
+document dot create elements and we will create a div and we can
+say div dot class list dot add the category class
+document dot create elements and we will create a div and we can
+say div dot class list dot add the category class.
+say div dot class list dot add the category class.
+OK
+say div dot class list dot add the category class.
+OK, and then.
+OK, and then.
+the first
+OK, and then.
+the first thing
+OK, and then.
+the first thing inside
+OK, and then.
+the first thing inside of the div
+OK, and then.
+the first thing inside of the division is
+OK, and then.
+the first thing inside of the division is the name
+OK, and then.
+the first thing inside of the division is the name of
+OK, and then.
+the first thing inside of the division is the name of the category
+the first thing inside of the division is the name of the category in
+an H two
+the first thing inside of the division is the name of the category in
+an H2. So we
+the first thing inside of the division is the name of the category in
+an H2. So we can create that
+the first thing inside of the division is the name of the category in
+an H2. So we can create that H
+the first thing inside of the division is the name of the category in
+an H2. So we can create that H two
+the first thing inside of the division is the name of the category in
+an H2. So we can create that H two constant H two
+the first thing inside of the division is the name of the category in
+an H2. So we can create that H two constant H two equals
+the first thing inside of the division is the name of the category in
+an H2. So we can create that H two constant H two equals docum
+an H2. So we can create that H two constant H two equals
+documents
+an H2. So we can create that H two constant H two equals
+documents dot
+an H2. So we can create that H two constant H two equals
+documents dot create
+an H2. So we can create that H two constant H two equals
+documents dot create element
+an H2. So we can create that H two constant H two equals
+documents dot create element and H
+an H2. So we can create that H two constant H two equals
+documents dot create element and H two
+an H2. So we can create that H2 constant H2 equals documents dot
+create element and H2 and the.
+create element and H2 and the.
+H
+create element and H2 and the.
+H two is
+create element and H2 and the.
+H two is going to have
+create element and H2 and the.
+H two is going to have some text
+create element and H2 and the.
+H two is going to have some text content
+create element and H2 and the.
+H2 is going to have some text content. So we can say
+create element and H2 and the.
+H2 is going to have some text content. So we can say H two
+create element and H2 and the.
+H2 is going to have some text content. So we can say H two dot
+H2 is going to have some text content. So we can say H two dot
+text
+H2 is going to have some text content. So we can say H two dot
+text content
+H2 is going to have some text content. So we can say H two dot
+text content is
+H2 is going to have some text content. So we can say H two dot
+text content is going to be
+H2 is going to have some text content. So we can say H two dot
+text content is going to be equal
+H2 is going to have some text content. So we can say H two dot
+text content is going to be equal to the
+H2 is going to have some text content. So we can say H two dot
+text content is going to be equal to the category
+H2 is going to have some text content. So we can say H two dot
+text content is going to be equal to the category which
+H2 is going to have some text content. So we can say H two dot
+text content is going to be equal to the category which | guess
+and let's iterate through the questions. So this questions is going to
+be the array that we added in questions by category. So it is
+and let's iterate through the questions. So this questions is going to
+be the array that we added in questions by category. So it is sort of
+be the array that we added in questions by category. So it is sort of
+this arr
+be the array that we added in questions by category. So it is sort of
+this array or the
+be the array that we added in questions by category. So it is sort of
+this array or the array that
+be the array that we added in questions by category. So it is sort of
+this array or the array that we were pushing to
+be the array that we added in questions by category. So it is sort of
+this array or the array that we were pushing to. So
+this array or the array that we were pushing to. So
+let's say
+this array or the array that we were pushing to. So
+let's say questions
+this array or the array that we were pushing to. So
+let's say questions dot
+this array or the array that we were pushing to. So
+let's say questions dot for each
+this array or the array that we were pushing to. So
+let's say questions .for each.
+let's say questions .for each.
+question
+question
+and let's see
+question
+and let's see what do
+question
+and let's see what do we need to do
+question
+and let's see what do we need to do. So we need to
+question
+and let's see what do we need to do. So we need to create
+question
+and let's see what do we need to do. So we need to create a div
+and let's see what do we need to do. So we need to create a
+division with
+and let's see what do we need to do. So we need to create a
+division with the class
+and let's see what do we need to do. So we need to create a
+division with the class of quest
+and let's see what do we need to do. So we need to create a
+division with the class of question
+and let's see what do we need to do. So we need to create a
+division with the class of question. So
+and let's see what do we need to do. So we need to create a
+division with the class of question. So question
+and let's see what do we need to do. So we need to create a
+division with the class of question. So question div just
+and let's see what do we need to do. So we need to create a
+division with the class of question. So question div just to give
+division with the class of question. So question div just to give it a
+different name
+division with the class of question. So question div just to give it a
+different name than
+division with the class of question. So question div just to give it a
+different name than the
+division with the class of question. So question div just to give it a
+different name than the outer
+division with the class of question. So question div just to give it a
+different name than the outer div
+division with the class of question. So question div just to give it a
+different name than the outer div is
+division with the class of question. So question div just to give it a
+different name than the outer div is going to be
+division with the class of question. So question div just to give it a
+different name than the outer div is going to be equal
+division with the class of question. So question div just to give it a
+different name than the outer div is going to be equal to
+different name than the outer div is going to be equal to
+documents
+different name than the outer div is going to be equal to
+documents dot create
+different name than the outer div is going to be equal to
+documents dot create element
+different name than the outer div is going to be equal to
+documents dot create element of a div
+different name than the outer div is going to be equal to
+documents dot create element of a division
+different name than the outer div is going to be equal to
+documents dot create element of a division and then
+different name than the outer div is going to be equal to
+documents dot create element of a division and then we need
+documents dot create element of a division and then we need to
+give it
+documents dot create element of a division and then we need to
+give it the
+documents dot create element of a division and then we need to
+give it the quest
+documents dot create element of a division and then we need to
+give it the question class
+documents dot create element of a division and then we need to
+give it the question class. So
+documents dot create element of a division and then we need to
+give it the question class. So question div
+documents dot create element of a division and then we need to
+give it the question class. So question div dot
+documents dot create element of a division and then we need to
+give it the question class. So question div dot class list
+documents dot create element of a division and then we need to
+give it the question class. So question div dot class list dot add
+give it the question class. So question div dot class list dot add
+question
+we need to set the text content of that H3. So H three dot text
+content is going to be equal
+we need to set the text content of that H3. So H three dot text
+content is going to be equal to
+we need to set the text content of that H3. So H3 dot text content is
+going to be equal to
+going to be equal to
+the
+going to be equal to
+the question
+going to be equal to
+the question and
+going to be equal to
+the question and we
+going to be equal to
+the question and we need to get
+going to be equal to
+the question and we need to get from
+going to be equal to
+the question and we need to get from the
+going to be equal to
+the question and we need to get from the API
+going to be equal to
+the question and we need to get from the API the name
+going to be equal to
+the question and we need to get from the API the name. So
+the question and we need to get from the API the name. So
+question
+the question and we need to get from the API the name. So
+question dot name
+question dot name
+O.K.
+question dot name
+O. K. And then
+question dot name
+O. K. And then | guess
+question dot name
+O. K. And then | guess we need
+question dot name
+O. K. And then | guess we need to
+question dot name
+O. K. And then | guess we need to actually
+question dot name
+O. K. And then | guess we need to actually append all
+O. K. And then | guess we need to actually append all of these
+things
+O. K. And then | guess we need to actually append all of these
+things to each other
+O. K. And then | guess we need to actually append all of these
+things to each other. So
+things to each other. So
+we can say
+things to each other. So
+we can say question
+things to each other. So
+we can say question div
+things to each other. So
+we can say question div dot append
+things to each other. So
+we can say question div dot append the
+things to each other. So
+we can say question div dot append the H three
+things to each other. So
+we can say question div dot append the H 3.
+we can say question div dot append the H 3.
+So this will add
+we can say question div dot append the H 3.
+So this will add the H
+we can say question div dot append the H 3.
+So this will add the H three to
+we can say question div dot append the H 3.
+So this will add the H three to the question
+we can say question div dot append the H 3.
+So this will add the H three to the question div
+we can say question div dot append the H 3.
+So this will add the H three to the question div and then
+So this will add the H three to the question div and then we need to
+add
+So this will add the H three to the question div and then we need to
+add the
+So this will add the H three to the question div and then we need to
+add the question div
+So this will add the H three to the question div and then we need to
+add the question div to
+So this will add the H three to the question div and then we need to
+add the question div to the categ
+So this will add the H three to the question div and then we need to
+add the question div to the category div
+So this will add the H three to the question div and then we need to
+add the question div to the category div and to
+So this will add the H three to the question div and then we need to
+add the question div to the category div and to rename
+So this will add the H three to the question div and then we need to
+add the question div to the category div and to rename this just so
+add the question div to the category div and to rename this just so
+we can keep track
+add the question div to the category div and to rename this just so
+we can keep track of it better
+add the question div to the category div and to rename this just so
+we can keep track of it better to categ
+add the question div to the category div and to rename this just so
+we can keep track of it better to category div
+the question div to the category div and to rename this just so we
+can keep track of it better to category div.
+can keep track of it better to category div.
+okay
+can keep track of it better to category div.
+okay. So then
+can keep track of it better to category div.
+okay. So then we can
+can keep track of it better to category div.
+okay. So then we can say
+can keep track of it better to category div.
+okay. So then we can say category div
+okay. So then we can say category division.
+dot
+okay. So then we can say category division.
+dot append
+okay. So then we can say category division.
+dot append the
+questions and
+let's see so this function needs to first of all call fetch questions.
+let's see so this function needs to first of all call fetch questions.
+and so this
+let's see so this function needs to first of all call fetch questions.
+and so this is an
+let's see so this function needs to first of all call fetch questions.
+and so this is an async fun
+let's see so this function needs to first of all call fetch questions.
+and so this is an async function. So we need
+let's see so this function needs to first of all call fetch questions.
+and so this is an async function. So we need to await
+let's see so this function needs to first of all call fetch questions.
+and so this is an async function. So we need to await this
+and so this is an async function. So we need to await this. So this
+needs
+and so this is an async function. So we need to await this. So this
+needs to be an
+and so this is an async function. So we need to await this. So this
+needs to be an async function
+and so this is an async function. So we need to await this. So this
+needs to be an async function as well
+needs to be an async function as well
+So
+needs to be an async function as well
+So can't
+needs to be an async function as well
+So can't questions
+needs to be an async function as well
+So can't questions equals
+needs to be an async function as well
+So can't questions equals a weight
+needs to be an async function as well
+So can't questions equals a weight fetch
+needs to be an async function as well
+So can't questions equals a weight fetch questions
+needs to be an async function as well
+So can't questions equals a weight fetch questions and then we
+So can't questions equals a weight fetch questions and then we
+need to
+So can't questions equals a weight fetch questions and then we
+need to call get
+So can't questions equals a weight fetch questions and then we
+need to call get questions
+So can't questions equals a weight fetch questions and then we
+need to call get questions by categ
+So can't questions equals a weight fetch questions and then we
+need to call get questions by category
+So can't questions equals a weight fetch questions and then we
+need to call get questions by category to
+So can't questions equals a weight fetch questions and then we
+need to call get questions by category to change
+So can't questions equals a weight fetch questions and then we
+need to call get questions by category to change this into
+So can't questions equals a weight fetch questions and then we
+need to call get questions by category to change this into that
+need to call get questions by category to change this into that
+object
+need to call get questions by category to change this into that
+object that we can
+need to call get questions by category to change this into that
+object that we can use
+need to call get questions by category to change this into that
+object that we can use a little bit easier
+need to call get questions by category to change this into that
+object that we can use a little bit easier so we can
+need to call get questions by category to change this into that
+object that we can use a little bit easier so we can say
+need to call get questions by category to change this into that
+object that we can use a little bit easier. So we can say
+need to call get questions by category to change this into that
+object that we can use a little bit easier so we can say constant
+object that we can use a little bit easier so we can say constant
+questions
+object that we can use a little bit easier so we can say constant
+questions by
+object that we can use a little bit easier so we can say constant
+questions by category
+object that we can use a little bit easier so we can say constant
+questions by category is going
+object that we can use a little bit easier so we can say constant
+questions by category is going to be
+object that we can use a little bit easier so we can say constant
+questions by category is going to be equal to
+object that we can use a little bit easier so we can say constant
+questions by category is going to be equal to get
+object that we can use a little bit easier so we can say constant
+questions by category is going to be equal to get questions by
+questions by category is going to be equal to get questions by
+category
+questions by category is going to be equal to get questions by
+category and
+questions by category is going to be equal to get questions by
+category and we can
+questions by category is going to be equal to get questions by
+category and we can pass in
+questions by category is going to be equal to get questions by
+category and we can pass in questions
+questions by category is going to be equal to get questions by
+category and we can pass in questions and then.
+category and we can pass in questions and then.
+for each
+category and we can pass in questions and then.
+for each category
+category and we can pass in questions and then.
+for each category we need
+category and we can pass in questions and then.
+for each category we need to
+category and we can pass in questions and then.
+for each category we need to call create
+category and we can pass in questions and then.
+for each category we need to call create category
+category and we can pass in questions and then.
+for each category we need to call create category. So
+for each category we need to call create category. So
+let's
+for each category we need to call create category. So
+let's it
+for each category we need to call create category. So
+let's iterate
+for each category we need to call create category. So
+let's iterate through this
+for each category we need to call create category. So
+let's iterate through this object
+for each category we need to call create category. So
+let's iterate through this object we created
+for each category we need to call create category. So
+let's iterate through this object we created to go through
+let's iterate through this object we created to go through all of the
+keys
+let's iterate through this object we created to go through all of the
+keys and for each
+let's iterate through this object we created to go through all of the
+keys and for each one we
+let's iterate through this object we created to go through all of the
+keys and for each one we will create
+let's iterate through this object we created to go through all of the
+keys and for each one we will create a categ
+let's iterate through this object we created to go through all of the
+keys and for each one we will create a category and
+let's iterate through this object we created to go through all of the
+keys and for each one we will create a category and then we can
+keys and for each one we will create a category and then we can
+append
+keys and for each one we will create a category and then we can
+append that
+keys and for each one we will create a category and then we can
+append that categ
+keys and for each one we will create a category and then we can
+append that category to the page
+keys and for each one we will create a category and then we can
+append that category to the page does
+keys and for each one we will create a category and then we can
+append that category to the page does the
+keys and for each one we will create a category and then we can
+append that category to the page does the order
+append that category to the page does the order that we do this
+matter at all
+append that category to the page does the order that we do this
+matter at all like
+append that category to the page does the order that we do this
+matter at all like does it
+append that category to the page does the order that we do this
+matter at all like does it matter if it's
+append that category to the page does the order that we do this
+matter at all like does it matter if it's like H
+append that category to the page does the order that we do this
+matter at all like does it matter if it's like HTML
+append that category to the page does the order that we do this
+matter at all like does it matter if it's like HTML first and
+append that category to the page does the order that we do this
+matter at all like does it matter if it's like HTML first and CSS
+matter at all like does it matter if it's like HTML first and CSS like it is
+on
+matter at all like does it matter if it's like HTML first and CSS like it is
+on the
+matter at all like does it matter if it's like HTML first and CSS like it is
+on the actual front
+matter at all like does it matter if it's like HTML first and CSS like it is
+on the actual front end
+matter at all like does it matter if it's like HTML first and CSS like it is
+on the actual front end expert page
+matter at all like does it matter if it's like HTML first and CSS like it is
+on the actual front end expert page or can we just
+matter at all like does it matter if it's like HTML first and CSS like it is
+on the actual front end expert page or can we just do it in what
+on the actual front end expert page or can we just do it in whatever
+order
+on the actual front end expert page or can we just do it in whatever
+order it came back
+on the actual front end expert page or can we just do it in whatever
+order it came back. So that
+on the actual front end expert page or can we just do it in whatever
+order it came back. So that's a good question
+on the actual front end expert page or can we just do it in whatever
+order it came back. So that's a good question like
+on the actual front end expert page or can we just do it in whatever
+order it came back. So that's a good question like you like you point
+order it came back. So that's a good question like you like you
+pointed out
+order it came back. So that's a good question like you like you
+pointed out on the front
+order it came back. So that's a good question like you like you
+pointed out on the front expert
+order it came back. So that's a good question like you like you
+pointed out on the front expert page there
+order it came back. So that's a good question like you like you
+pointed out on the front expert page there is an order
+order it came back. So that's a good question like you like you
+pointed out on the front expert page there is an order like the
+pointed out on the front expert page there is an order like the order
+is always
+pointed out on the front expert page there is an order like the order
+is always the same
+pointed out on the front expert page there is an order like the order
+is always the same for the purpose
+pointed out on the front expert page there is an order like the order
+is always the same for the purpose of this
+pointed out on the front expert page there is an order like the order
+is always the same for the purpose of this question
+is always the same for the purpose of this question don't worry
+about
+is always the same for the purpose of this question don't worry
+about the order
+about the order
+So
+about the order
+So however
+about the order
+So however you know
+about the order
+So however you know the way
+about the order
+So however you know the way you you
+about the order
+So however you know the way you you structured
+about the order
+So however you know the way you you structured your code
+about the order
+So however you know the way you you structured your code all
+So however you know the way you you structured your code all the
+categories
+So however you know the way you you structured your code all the
+categories are gonna be in your
+So however you know the way you you structured your code all the
+categories are gonna be in your object
+So however you know the way you you structured your code all the
+categories are going to be in your object
+So however you know the way you you structured your code all the
+categories are gonna be in your object. Don't
+So however you know the way you you structured your code all the
+categories are gonna be in your object. Don't worry about
+categories are gonna be in your object. Don't worry about you
+know what
+categories are gonna be in your object. Don't worry about you
+know what order they're
+categories are gonna be in your object. Don't worry about you
+know what order they're in the object
+categories are gonna be in your object. Don't worry about you
+know what order they're in the object in
+categories are going to be in your object. Don't worry about you
+know what order they're in the object in okay
+categories are going to be in your object. Don't worry about you
+know what order they're in the object in okay cool
+categories are going to be in your object. Don't worry about you
+know what order they're in the object in okay cool awesome
+categories are going to be in your object. Don't worry about you
+know what order they're in the object in okay cool awesome so
+categories are going to be in your object. Don't worry about you
+know what order they're in the object in okay cool awesome. So to
+know what order they're in the object in okay cool awesome. So to
+iterate
+know what order they're in the object in okay cool awesome. So to
+iterate through the
+know what order they're in the object in okay cool awesome. So to
+iterate through the object
+know what order they're in the object in okay cool awesome. So to
+iterate through the object | guess there
+know what order they're in the object in okay cool awesome. So to
+iterate through the object | guess there's a few ways
+know what order they're in the object in okay cool awesome. So to
+iterate through the object | guess there's a few ways we can do it
+iterate through the object | guess there's a few ways we can do it
+but | kind
+iterate through the object | guess there's a few ways we can do it
+but | kinda like
+iterate through the object | guess there's a few ways we can do it
+but | kinda like the object
+iterate through the object | guess there's a few ways we can do it
+but | kinda like the object dot entries
+iterate through the object | guess there's a few ways we can do it
+but | kinda like the object dot entries functions
+iterate through the object | guess there's a few ways we can do it
+but | kinda like the object dot entries functions let's do
+iterate through the object | guess there's a few ways we can do it
+but | kinda like the object dot entries functions let's do or
+iterate through the object | guess there's a few ways we can do it
+but | kinda like the object dot entries functions let's do or for
+but | kinda like the object dot entries functions let's do or for
+constant
+but | kinda like the object dot entries functions let's do or for
+constant and we'll have
+but | kinda like the object dot entries functions let's do or for
+constant and we'll have the
+but | kinda like the object dot entries functions let's do or for
+constant and we'll have the key
+but | kinda like the object dot entries functions let's do or for
+constant and we'll have the key and then
+but | kinda like the object dot entries functions let's do or for
+constant and we'll have the key and then the values
+but | kinda like the object dot entries functions let's do or for
+constant and we'll have the key and then the values | guess
+constant and we'll have the key and then the values | guess the key
+is
+constant and we'll have the key and then the values | guess the key
+is the category
+constant and we'll have the key and then the values | guess the key
+is the category and the
+constant and we'll have the key and then the values | guess the key
+is the category and the value
+constant and we'll have the key and then the values | guess the key
+is the category and the value is the
+constant and we'll have the key and then the values | guess the key
+is the category and the value is the questions
+constant and we'll have the key and then the values | guess the key
+is the category and the value is the questions.
+is the category and the value is the questions.
+and this will be
+is the category and the value is the questions.
+and this will be of
+is the category and the value is the questions.
+and this will be of object
+is the category and the value is the questions.
+and this will be of object dot entries
+then we just need to append the category to the wrapper so we can say wrapper append
+dot append.
+we can say wrapper the category
+dot append. and
+the category let's see
+Ohh
+let's see it's re
+Ohh reusing the name
+let's see it's so
+Ohh reusing the name we can say
+let's see it's so category
+Ohh reusing the name we can say div
+let's see it's so category here
+Ohh reusing the name we can say div div.
+it's so category here like that
+Ohh reusing the name we can say div div. that.
+like and let's see
+that. see. So
+like and let's now we
+that. see. So need to
+like and let's now we actually call
+that. see. So need to this
+like and let's now we actually call function
+that. see. So need to this function.
+and let's now we actually call and
+see. So need to this function. ooh it
+and let's now we actually call and actually worked
+see. So need to this function. ooh It on the first
+and let's now we actually call and it actually worked shy
+see. So need to this function. ooh on the first shy. Okay
+and let's now we actually call and it actually worked Okay. Con
+see. So need to this function. ooh on the first shy. Connor
+and let's now we actually call and it actually worked Okay. Connor, my
+ooh on the first shy. shared
+and it actually worked Okay. Connor, my screen is
+ooh on the first shy. shared a tiny bit bugg
+and it actually worked Okay. Connor, my screen is buggy, so
+ooh on the first shy. shared a tiny bit | can't
+and it actually worked Okay. Connor, my screen is buggy, so fully see
+ooh on the first shy. shared a tiny bit | can't your output
+screen is buggy, so fully see output. But
+shared a tiny bit | can't your in
+screen is buggy, so fully see output. But the create
+shared a tiny bit | can't your in category
+screen is buggy, so fully see output. But the create function
+shared a tiny bit | can't your in category that you have
+screen is buggy, so fully see output. But the create function have, did
+shared a tiny bit | can't your in category that you have you make sure
+But the create function have, did to
+in category that you you make sure append
+But the create function have, did to the
+in category that you you make sure append category
+But the create function have, did to the heading
+in category that you you make sure append category the.
+to the heading categ
+sure append category the. category
+to the heading head
+sure append category the. category
+to the heading heading. Oh, | did not
+sure append category the. category not. Good call
+to the heading heading. Oh, | did call. So
+sure append category the. category not. Good call
+to the heading heading. Oh, | did call. So you're not getting the
+category not. Good caps
+sure to append the heading the. heading. Oh, | did call. Yeah, yeah. So
+category category not. Good we
+sure to append the heading the. heading. Oh, | did call. Yeah, yeah. So yeah
+category not. Good Can you
+heading. Oh, | did call. Yeah, yeah. So yeah. see
+category not. Good we Can you like any
+heading. Oh, | did call. Yeah, yeah. So yeah. see anything? Or
+category not. Good we Can you like anything or you just not
+heading. Oh, | did call. Yeah, yeah. So yeah. see anything? Or
+category not. Good we Can you like anything or you just not can your code
+heading. Oh, | did call. Yeah, yeah. So yeah. see see code. |
+Can you like anything or you just not can your can your code
+see see code. | see for whatever
+Can you like anything or you just not can your can your code reason
+see see code. | see for whatever reason. But don't worry
+your code about the output
+see for whatever reason. But don't worry output. I'm you know
+your code about the I'm, know, trusting what
+see for whatever reason. But don't worry output. you you can see
+of a division. And we say status .class list .add and it had a status class. Is that right? Yep. And then. it had another class based on these submissions by ID so we say status dot. class list dot add and we'll do submissions by ID and we need to get the. the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted
+can can see can you it's
+of a division. And we say status .class list .add and it had a status class. Is that right? Yep. And then. it had another class based on these submissions by ID so we say status dot. class list dot add and we'll do submissions by ID and we need to get the. the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if
+can can see can you it's no
+we say status .class list add and it had a status class. Is that right? Yep. And then. it had another class based on these submissions by ID so we say status dot. class list dot add and we'll do submissions by ID and we need to get the. the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission
+can see can you it's no
+right? Yep. And then. it had another class based on these submissions by ID so we say status dot. class list dot add and we'll do submissions by ID and we need to get the. the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this sentence
+can see can you it's no attempted
+right? Yep. And then. it had another class based on these submissions by ID so we say status dot. class list dot add and we'll do submissions by ID and we need to get the. the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this
+can see can you it's no attempted | think
+right? Yep. And then. it had another class based on these submissions by ID so we say status dot. class list dot add and we'll do submissions by ID and we need to get the. the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be
+can see can you it's no attempted | think like lower
+it had another class based on these submissions by ID so we say status dot. class list dot add and we'll do submissions by ID and we need to get the. the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case
+see can you it's no attempted | think like lower partially
+say status dot. class list dot add and we'll do submissions by ID and we need to get the. the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct
+see can you it's no attempted | think like lower partially it's a
+say status dot. class list dot add and we'll do submissions by ID and we need to get the. the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not
+see can you it's no attempted | think like lower partially it's a an under score
+class list dot add and we'll do submissions by ID and we need to get the. the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not
+see can you it's no attempted | think like lower partially it's a an under score partially
+class list dot add and we'll do submissions by ID and we need to get the. the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct ©. K
+see can you it's no attempted | think like lower partially it's a an under score partially O. K.
+class list dot add and we'll do submissions by ID and we need to get the. the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct I'm actually
+see can you it's no attempted | think like lower partially it's a an under score partially O. K. going
+class list dot add and we'll do submissions by ID and we need to get the. the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct I'm actually to do this on another line
+can isn't you it's no attempted | think like lower partially it's a an under score partially O. K. going
+to get the. the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct I'm actually to do this on another line then just
+can you it's no attempted | think like lower partially it's a an under score partially O. K. going doesn't
+to get the. the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct I'm actually to do this on another line then just said this doesn’t get out of control
+can you it's no attempted | think like lower partially it's a an under score partially O. K. going doesn't let's
+the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct I'm actually to do this on another line then just said this get out of control so say status
+can you it's no attempted | think like lower partially it's a an under score partially O. K. going doesn't let's class
+the question ID so we say that question. or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct I'm actually to do this on another line then just said this get out of control so say status class.
+you it's no attempted | think like lower partially it's a an under score partially O. K. going doesn’t let's
+or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct I'm actually to do this on another line then just said this get out of control so say status class. so constant status
+you it's no attempted | think like lower partially it's a an under score partially O. K. going doesn’t let's class
+or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct I'm actually to do this on another line then just said this get out of control so say status class. so constant status is to
+you it's no attempted | think like lower partially it's a an under score partially O. K. going doesn’t let's class going equal
+or question dot is it just ID yep just ID yeah submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct I'm actually to do this on another line then just said this doesn't get out of control so say status class. so constant status is to be to this
+you it's no attempted | think like lower partially it's a an under score partially O. K. going let's class going equal
+submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct I'm actually to do this on another line then just said this doesn't get out of control so say status class. so constant status is to be to this dot to
+you it's no attempted | think like lower partially it's a an under score partially O. K. going let's class going equal two lower
+submissionsbyldquestions.ld so this would be the status if there is one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct I'm actually to do this on another line then just said this doesn't get out of control so say status class. so constant status is to be to this dot case.
+you it's no attempted | think like lower partially it's a an under score partially ©. K. going let's class going equal two lower
+one! but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct O. I'm actually to do this on another line then just said this doesn't get out of control so say status class. so constant status is to be to this dot case. and
+you it's no attempted | think like lower partially it's a an under score partially K. going let's class going equal two lower then.
+but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct O. I'm actually to do this on another line then just said this doesn't get out of control so say status class. so constant status is to be to this dot case. and then and
+you it's no attempted | think like lower partially it's a an under score partially K. going let's class going equal two lower then. you
+but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct O. I'm actually to do this on another line then just said this doesn't get out of control so say status class. so constant status is to be to this dot case. and then and said we need to replace
+| you it's no attempted | think like lower partially it's a an under score partially K. going let's class going equal two lower then. you
+one but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct O. I'm actually to do this on another line then just said this doesn't get out of control so say status class. so constant status is to be to this dot case. and then and said we need to replace the
+| you it's no attempted | think like lower partially it's a an under score partially K. going let's class going equal two lower then. you underscore
+one but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct O. I'm actually to do this on another line then just said this doesn't get out of control so say status class. so constant status is to be to this dot case. and then and said we need to replace the with
+| you it's no attempted | think like lower partially it's a an under score partially K. going let's class going equal two lower then. you underscore a
+one but if there isn’t one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct O. I'm actually to do this on another line then just said this doesn't get out of control so say status class. so constant status is to be to this dot case. and then and said we need to replace the with dash
+isn't you it's no attempted | think like lower partially it's a an under score partially K. going let's class going equal two lower then. you underscore AA dash. Gotta love
+but if there one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct O. I'm actually to do this on another line then just said this doesn't get out of control so say status class. so constant status is to be to this dot case. and then and said we need to replace the with the
+isn't you it's no attempted | think like lower partially it's a an under score partially K. going let's class going equal two lower then. you underscore AA dash. Gotta love CS
+but if there one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct O. I'm actually to do this on another line then just said this doesn't get out of control so say status class. so constant status is to be to this dot case. and then and said we need to replace the with the CSS syntax
+isn't you it's no attempted | think like lower partially it's a an under score partially K. going let's class going equal two lower then. you underscore AA dash. Gotta love C. S. S. Syntax
+but if there one then said we need simply. what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct O. I'm actually to do this on another line then just said this doesn't get out of control so say status class. so constant status is to be to this dot case. and then and said we need to replace the with the versus
+isn't you it's no attempted | think like lower partially it's a an under score partially K. going let's class going equal two lower then. you underscore AA dash. Gotta love CSS syntax you know
+what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct O. I'm actually to do this on another line then just said this doesn't get out of control so say status class. so constant status is to be to this dot case. and then and said we need to replace the with the versus aPl
+it's no attempted | think like lower partially it's a an under score partially K. going let's class going equal two lower then. you underscore AA dash. Gotta love CSS syntax you know a P I syntax
+what was it on something unattempted so unattempted for if there is submission and then yeah this but this one needs to be case and for correct hyphen not correct O. I'm actually to do this on another line then just said this doesn't get out of control so say status class. so constant status is to be to this dot case. and then and said we need to replace the with the versus guess
+create element. a division. And can .class list add had a Is that right? Yep. And then. had class based these submissions by ID can dot. class list add we'll see submissions by ID
+so constant status is going to be equal to this dot two lower case. and then and you said we need to replace the underscore with AA dash. Gotta love the CSS syntax versus you know API syntax | guess. |
+class then. think
+so constant status is going to be equal to this dot two lower case. and then and you said we need to replace the underscore with AA dash. Gotta love the CSS syntax versus you know API syntax | guess. | this
+class then. think
+so constant status is going to be equal to this dot two lower case. and then and you said we need to replace the underscore with AA dash. Gotta love the CSS syntax versus you know API syntax | guess. | this this optional chaining
+class then. think thing will work
+so constant status is going to be equal to this dot two lower case. and then and you said we need to replace the underscore with AA dash. Gotta love the CSS syntax versus you know API syntax | guess. | this this optional chaining work. I'm actually
+class then. think thing will not
+dot two lower case. and then and you said we need to replace the underscore with AA dash. Gotta love the CSS syntax versus you know API syntax | guess. | this this optional chaining work. I'm actually a hundred percent
+then. think thing will not 100% sure. always forget
+dot two lower case. and then and you said we need to replace the underscore with AA dash. Gotta love the CSS syntax versus you know API syntax | guess. | this this optional chaining work. I'm actually | the exact
+then. think thing will not 100% sure. always forget
+dot two lower case. and then and you said we need to replace the underscore with AA dash. Gotta love the CSS syntax versus you know API syntax | guess. | this this optional chaining work. I'm actually | the exact syntax with function calls
+then. think thing will not 100% sure. always forget but O K
+and then and you said we need to replace the underscore with AA dash. Gotta love the CSS syntax versus you know API syntax | guess. | this this optional chaining work. I'm actually | the exact syntax with function calls so we can replace
+then. think thing will not 100% sure. always forget but O K und
+and then and you said we need to replace the underscore with AA dash. Gotta love the CSS syntax versus you know API syntax | guess. | this this optional chaining work. I'm actually | the exact syntax with function calls so we can replace the underscore
+then. think thing will not 100% sure. always forget but O K
+and then and you said we need to replace the underscore with AA dash. Gotta love the CSS syntax versus you know API syntax | guess. | this this optional chaining work. I'm actually | the exact syntax with function calls so we can replace the underscore with the
+then. think thing will not 100% sure. always forget but O K dash
+and then and you said we need to replace the underscore with AA dash. Gotta love the CSS syntax versus you know API syntax | guess. | this this optional chaining work. I'm actually 100 percent | the exact syntax with function calls OK so we can replace the underscore with the the O. K.
+then. think thing will not sure. always forget but dash So
+you said we need to replace the underscore with AA dash. Gotta love the CSS syntax versus you know API syntax | guess. | this this optional chaining work. I'm actually 100 percent | the exact syntax with function calls OK so we can replace the underscore with the the O. K. I'm 100
+think thing will not sure. always forget but dash So not sure
+you said we need to replace the underscore with AA dash. Gotta love the CSS syntax versus you know API syntax | guess. | this this optional chaining work. I'm actually 100 percent | the exact syntax with function calls OK so we can replace the underscore with the the O. K. I'm 100 percent about this
+think thing will not sure. always forget but dash So not sure this. We'll see if works
+love the CSS syntax versus you know API syntax | guess. | this this optional chaining work. I'm actually 100 percent | the exact syntax with function calls OK so we can replace the underscore with the the O. K. I'm 100 percent about this in a second
+think thing will not sure. always forget but dash So not sure this. We'll see if works when
+love the CSS syntax versus you know API syntax | guess. | this this optional chaining work. I'm actually 100 percent | the exact syntax with function calls OK so we can replace the underscore with the the O. K. I'm 100 percent about this in a second | actually add it
+think thing will not sure. always forget but dash So not sure this. We'll see if works when it. So let's
+love the CSS syntax versus you know API syntax | guess. | this this optional chaining work. I'm actually 100 percent | the exact syntax with function calls OK so we can replace the underscore with the the O. K. I'm 100 percent about this in a second | actually add it so add the status
+think thing will not sure. always forget but dash So not sure this. We'll see if works when let's to
+API syntax | guess. | this this optional chaining work. I'm actually 100 percent | the exact syntax with function calls OK so we can replace the underscore with the the O. K. I'm 100 percent about this in a second | actually add it so add the status the question
+think thing will not sure. always forget but dash So not sure this. We'll see if works when let's to if
+API syntax | guess. | this this optional chaining work. I'm actually 100 percent | the exact syntax with function calls OK so we can replace the underscore with the the O. K. I'm 100 percent about this in a second | actually add it so add the status the question so question div
+think thing will not sure. always forget but dash So not sure this. We'll see if works when let's to if questiondiv dot
+API syntax | guess. | this this optional chaining work. I'm actually 100 percent | the exact syntax with function calls OK so we can replace the underscore with the the O. K. I'm 100 percent about this in a second | actually add it so add the status the question so append
+think thing will not sure. always forget but dash So not sure this. We'll see if works when let's to if questiondiv dot
+API syntax | guess. | this this optional chaining work. I'm actually 100 percent | the exact syntax with function calls OK so we can replace the underscore with the the O. K. I'm 100 percent about this in a second | actually add it so add the status the question so append the status
+think thing will not sure. always forget but dash So not sure this. We'll see if works when let's to if questiondiv dot status.
+API syntax | guess. | this this optional chaining work. I'm 100 percent | the exact syntax wi OK so we can replace the underscore with the th I'm 100 percent about this second | actually add it so add the status to»tnesquestion so append the
+think thing will not sure. always forget function calls but dash O. K. So not sure this. We'll see if works in a when let's to question if questiondiv dot status.
+| this this optional chaining work. I'm actually 100 percent | the exact syntax with OK so we can replace the underscore with the the I'm 100 percent about this second | actually add it so add the status the so append the okay
+think thing will not sure. always forget function calls but dash O. K. So not sure this. We'll see if works in a when let's to question if questiondiv dot status. okay, yeah
+| this this optional chaining work. I'm actually 100 percent | the exact syntax with OK so we can replace the underscore with the the I'm 100 percent about this second | actually add it so add the status the so append the yeah, that did actually
+think thing will not sure. always forget function calls but dash O. K. So not sure this. We'll see if works in a when let's to question if questiondiv dot status. okay, surprisingly
+| this this optional chaining work. I'm actually 100 percent | the exact syntax with OK so we can replace the underscore with the the I'm 100 percent about this second | actually add it so add the status the so append the yeah, that did actually seemed work
+sure. always forget function calls but dash O. K. So not sure this. We'll see if works in a when let's to question if questiondiv dot status. okay, surprisingly to So
+100 percent | the exact syntax with OK so we can replace the underscore with the the I'm 100 percent about this second | actually add it so add the status the so append the yeah, that did actually seemed work this worked.
+sure. always forget function calls but dash O. K. So not sure this. We'll see if works in a when let's to question if questiondiv dot status. okay, surprisingly to So So have
+100 percent | the exact syntax with OK so we can replace the underscore with the the I'm 100 percent about this second | actually add it so add the status the so append the yeah, that did actually seemed work this worked. we the status
+sure. always forget function calls but dash O. K. So not sure this. We'll see if works in a when let's to question if questiondiv dot status. okay, surprisingly to So So have circles now
+100 percent | the exact syntax with OK so we can replace the underscore with the the I'm 100 percent about this second | actually add it so add the status the so append the yeah, that did actually seemed work this worked. we the status now, then
+but dash O. K. So not sure this. We'll see if works in a when let's to question if questiondiv dot status. okay, surprisingly to So So have circles but you said
+OK so we can replace the underscore with the the I'm 100 percent about this second | actually add it so add the status the so append the yeah, that did actually seemed work this worked. we the status now, then we also want
+but dash O. K. So not sure this. We'll see if works in a when let's to question if questiondiv dot status. okay, surprisingly to So So have circles but you said want, let's see
+OK so we can replace the underscore with the the I'm 100 percent about this second | actually add it so add the status the so append the yeah, that did actually seemed work this worked. we the status now, then we also how this looks
+but dash O. K. So not sure this. We'll see if works in a when let's to question if questiondiv dot status. okay, surprisingly to So So have circles but you said want, let's see to
+OK so we can replace the underscore with the the I'm 100 percent about this second | actually add it so add the status the so append the yeah, that did actually seemed work this worked. we the status now, then we also how this looks add
+but dash O. K. So not sure this. We'll see if works in a when let's to question if questiondiv dot status. okay, surprisingly to So So have circles but you said want, let's see to to
+OK so we can replace the underscore with the the I'm 100 percent about this second | actually add it so add the status the so append the yeah, that did actually seemed work this worked. we the status now, then we also how this looks add the name
+but dash O. K. So not sure this. We'll see if works in a when let's to question if questiondiv dot status. okay, surprisingly to So So have circles but you said want, let's see to to
+I'm 100 percent about this second | actually add it so add the status the so append the yeah, that did actually seemed work this worked. we the status now, then we also how this looks add the name this sort of
+not sure this. We'll see if works in a when let's to question if questiondiv dot status. okay, surprisingly to So So have circles but you said want, let's see to to dash and
+I'm 100 percent about this second | actually add it so add the status the so append the yeah, that did actually seemed work this worked. we the status now, then we also how this looks add the name this sort of then the completed
+not sure this. We'll see if works in a when let's to question if questiondiv dot status. okay, surprisingly to So So have circles but you said want, let's see to to dash and number
+I'm 100 percent about this second | actually add it so add the status the so append the yeah, that did actually seemed work this worked. we the status now, then we also how this looks add the name this sort of then the completed number.
+not sure this. We'll see if works in a when let's to question if questiondiv dot status. okay, surprisingly to So So have circles but you said want, let's see to to dash and So doesn't matter
+I'm 100 percent about this second | actually add it so add the status the so append the yeah, that did actually seemed work this worked. we the status now, then we also how this looks add the name this sort of then the completed number. it like
+when let's to question if questiondiv dot status. okay, surprisingly to So So have circles but you said want, let's see to to dash and So doesn't matter exact
+second | actually add it so add the status the so append the yeah, that did actually seemed work this worked. we the status now, then we also how this looks add the name this sort of then the completed number. it like the the string
+when let's to question if questiondiv dot status. okay, surprisingly to So So have circles but you said want, let's see to to dash and So doesn't matter exact doesn't really matter
+second | actually add it so add the status the so append the yeah, that did actually seemed work this worked. we the status now, then we also how this looks add the name this sort of then the completed number. it like the the string matter, it's
+when let's to question if questiondiv dot status. okay, surprisingly to So So have circles but you said want, let's see to to dash and So doesn't matter exact doesn't really but basically
+so append the yeah, that did actually seemed work this worked. we the status now, then we also how this looks add the name this sort of then the completed number. it like the the string matter, it's basically, know, space
+if questiondiv dot status. okay, surprisingly to So So have circles but you said want, let's see to to dash and So doesn't matter exact doesn't really but you hyphen
+so append the yeah, that did actually seemed work this worked. we the status now, then we also how this looks add the name this sort of then the completed number. it like the the string matter, it's basically, know, space space
+if questiondiv dot status. okay, surprisingly to So So have circles but you said want, let's see to to dash and So doesn't matter exact doesn't really but you hyphen
+so append the yeah, that did actually seemed work this worked. we the status now, then we also how this looks add the name this sort of then the completed number. it like the the string matter, it's basically, know, space space then the number
+if questiondiv dot status. okay, surprisingly to So So have circles but you said want, let's see to to dash and So doesn't matter exact doesn't really but you hyphen
+so append the yeah, that did actually seemed work this worked. we the status now, then we also how this looks add the name this sort of then the completed number. it like the the string matter, it's basically, know, space space then the number of correctly
+if questiondiv dot status. okay, surprisingly to So So have circles but you said want, let's see to to dash and So doesn't matter exact doesn't really but you hyphen submitted
+yeah, that did actually seemed work this worked. we the status now, then we also how this looks add the name this sort of then the completed number. it like the the string matter, it's basically, know, space space then the number of correctly submitted. not
+okay, surprisingly to So So have circles but you said want, let's see to to dash and So doesn't matter exact doesn't really but you hyphen So partially
+yeah, that did actually seemed work this worked. we the status now, then we also how this looks add the name this sort of then the completed number. it like the the string matter, it's basically, know, space space then the number of correctly submitted. not correct. You know
+okay, surprisingly to So So have circles but you said want, let's see to to dash and So doesn't matter exact doesn't really but you hyphen So partially
+yeah, that did actually seemed work this worked. we the status now, then we also how this looks add the name this sort of then the completed number. it like the the string matter, it's basically, know, space space then the number of correctly submitted. not correct. You know the number of
+okay, surprisingly to So So have circles but you said want, let's see to to dash and So doesn't matter exact doesn't really but you hyphen So partially
+yeah, that did actually seemed work this worked. we the status now, then we also how this looks add the name this sort of then the completed number. it like the the string matter, it's basically, know, space space then the number of correctly submitted. not correct. You know the number of of correctly
+So So have circles but you said want, let's see to to dash and So doesn't matter exact doesn't really but you hyphen So partially submitted
+this worked. we the status now, then we also how this looks add the name this sort of then the completed number. it like the the string matter, it's basically, know, space space then the number of correctly submitted. not correct. You know the number of of correctly space
+So So have circles but you said want, let's see to to dash and So doesn't matter exact doesn't really but you hyphen So partially submitted slash
+this worked. we the status now, then we also how this looks add the name this sort of then the completed number. it like the the string matter, it's basically, know, space space then the number of correctly submitted. not correct. You know the number of of correctly space space
+So So have circles but you said want, let's see to to dash and So doesn't matter exact doesn't really but you hyphen So partially submitted slash space, total
+this worked. we the status now, then we also how this looks add the name this sort of then the completed number. it like the the string matter, it's basically, know, space space then the number of correctly submitted. not correct. You know the number of of correctly space the number of questions
+want, let's see to to dash and So doesn't matter exact doesn't really but you hyphen So partially submitted slash space, total in that category
+we also how this looks add the name this sort of then the completed number. it like the the string matter, it's basically, know, space space then the number of correctly submitted. not correct. You know the number of of correctly space the number of questions category.
+dash and So doesn't matter exact doesn't really but you hyphen So partially submitted slash space, total in that |
+of then the completed number. it like the the string matter, it's basically, know, space space then the number of correctly submitted. not correct. You know the number of of correctly space the number of questions category. see
+dash and So doesn't matter exact doesn't really but you hyphen So partially submitted slash space, total in that | see. O. K. So
+of then the completed number. it like the the string matter, it's basically, know, space space then the number of correctly submitted. not correct. You know the number of of correctly space the number of questions category. we need
+dash and So doesn't matter exact doesn't really but you hyphen So partially submitted slash space, total in that | see. O. K. So to keep track
+of then the completed number. it like the the string matter, it's basically, know, space space then the number of correctly submitted. not correct. You know the number of of correctly space the number of questions category. we need of
+dash and So doesn't matter exact doesn't really but you hyphen So partially submitted slash space, total in that | see. O. K. So to keep track of.
+the the string matter, it's basically, know, space space then the number of correctly submitted. not correct. You know the number of of correctly space the number of questions category. we need which
+exact doesn't really but you hyphen So partially submitted slash space, total in that | see. O. K. So to keep track of. ones
+the the string matter, it's basically, know, space space then the number of correctly submitted. not correct. You know the number of of correctly space the number of questions category. we need which are
+exact doesn't really but you hyphen So partially submitted slash space, total in that | see. O. K. So to keep track of. ones correct or
+the the string matter, it's basically, know, space space then the number of correctly submitted. not correct. You know the number of of correctly space the number of questions category. we need which are not. let's see
+exact doesn't really but you hyphen So partially submitted slash space, total in that | see. O. K. So to keep track of. ones correct or So see. Let's just keep
+the the string matter, it's basically, know, space space then the number of correctly submitted. not correct. You know the number of of correctly space the number of questions category. we need which are not. let's a counter
+hyphen So partially submitted slash space, total in that | see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. Say
+know, space space then the number of correctly submitted. not correct. You know the number of of correctly space the number of questions category. we need which are not. let's a Say, let
+hyphen So partially submitted slash space, total in that | see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct
+know, space space then the number of correctly submitted. not correct. You know the number of of correctly space the number of questions category. we need which are not. let's a Say, let count
+hyphen So partially submitted slash space, total in that | see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero
+know, space space then the number of correctly submitted. not correct. You know the number of of correctly space the number of questions category. we need which are not. let's a Say, let count and
+So partially submitted slash space, total in that | see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when
+not correct. You know the number of of correctly space the number of questions category. we need which are not. let's a Say, let count and we do this
+So partially submitted slash space, total in that | see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when this, also
+not correct. You know the number of of correctly space the number of questions category. we need which are not. let's a Say, let count and we do let's check see
+So partially submitted slash space, total in that | see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when this, also to if
+not correct. You know the number of of correctly space the number of questions category. we need which are not. let's a Say, let count and we do let's check see this is
+So partially submitted slash space, total in that | see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when this, also to if correct
+not correct. You know the number of of correctly space the number of questions category. we need which are not. let's a Say, let count and we do let's check see this is correct.
+submitted slash space, total in that | see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when this, also to if So can
+space the number of questions category. we need which are not. let's a Say, let count and we do let's check see this is correct. we say
+submitted slash space, total in that | see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when this, also to if So can say, | guess I'll
+space the number of questions category. we need which are not. let's a Say, let count and we do let's check see this is correct. we do it down here
+submitted slash space, total in that | see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when this, also to if So can say, | guess I'll here.
+category. we need which are not. let's a Say, let count and we do let's check see this is correct. we do it down Say
+| see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when this, also to if So can say, | guess I'll here. if
+category. we need which are not. let's a Say, let count and we do let's check see this is correct. we do it down Say, the status
+| see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when this, also to if So can say, | guess I'll here. if
+category. we need which are not. let's a Say, let count and we do let's check see this is correct. we do it down Say, the status is, it's going
+| see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when this, also to if So can say, | guess I'll here. if to be all
+category. we need which are not. let's a Say, let count and we do let's check see this is correct. we do it down Say, the status is, it's going capital
+| see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when this, also to if So can say, | guess I'll here. if to be all correct
+category. we need which are not. let's a Say, let count and we do let's check see this is correct. we do it down Say, the status is it's going capital correct, right
+| see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when this, also to if So can say, | guess I'll here. if is, to be all
+category. we need which are not. let's a Say, let count and we do let's check see this is correct. we do it down Say, the status it's going capital correct, right?
+| see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when this, also to if So can say, | guess I'll here. if is, to be all So in that case
+we need which are not. let's a Say, let count and we do let's check see this is correct. we do it down Say, the status it's going capital correct, right? case, we say
+| see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when this, also to if So can say, | guess I'll here. if is, to be all So in that can correct
+we need which are not. let's a Say, let count and we do let's check see this is correct. we do it down Say, the status it's going capital correct, right? case, we say count
+| see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when this, also to if So can say, | guess I'll here. if is, to be all So in that can correct plus plus
+we need which are not. let's a Say, let count and we do let's check see this is correct. we do it down Say, the status it's going capital correct, right? case, we say count plus. we'll
+| see. O. K. So to keep track of. ones correct or So see. Let's just keep counter. correct equal zero when this, also to if So can say, | guess I'll here. if is, to be all So in that can correct plus So just increment
+between the forward slash for like that's yeah OK and then we need the total number the total number of questions soquestions.length. OK, so seems work. It's a little sketchy we're changing the text so don't actually need this line up here but. will go ahead and still append it first because otherwise the order's going wrong we create this at the end we could pre- pend. not do so this is sort of one place. let's hope it did not like that. Oh, that's not rare. That's not where needs
+just that to that | to be if | guess Let's that just all in O. K. So that to be. We
+between the forward slash for like that's yeah OK and then we need the total number the total number of questions soquestions.length. OK, so seems work. It's a little sketchy we're changing the text so don't actually need this line up here but. will go ahead and still append it first because otherwise the order's going wrong we create this at the end we could pre- pend. not do so this is sort of one place. let's hope it did not like that. Oh, that's not rare. That's not where needs need
+just that to that | to be if | guess Let's that just all in O. K. So that to be. We that under
+between the forward slash for like that's yeah OK and then we need the total number the total number of questions soquestions.length. OK, so seems work. It's a little sketchy we're changing the text so don't actually need this line up here but. will go ahead and still append it first because otherwise the order's going wrong we create this at the end we could pre- pend. not do so this is sort of one place. let's hope it did not like that. Oh, that's not rare. That's not where needs need under. Yep
+just that to that | to be if | guess Let's that just all in O. K. So that to be. We that Yep. Down
+between the forward slash for like that's yeah OK and then we need the total number the total number of questions soquestions.length. OK, so seems work. It's a little sketchy we're changing the text so don't actually need this line up here but. will go ahead and still append it first because otherwise the order's going wrong we create this at the end we could pre- pend. not do so this is sort of one place. let's hope it did not like that. Oh, that's not rare. That's not where needs need under. Yep, down here
+that to that | to be if | guess Let's that just all in O. K. So that to be. We that here. And then.
+gave made sense so the last 6 minutes of the interview want introduce one line 11 last piece of complexity we're not gonna have time for you code this out so perhaps you could like think about it and and explain me at a high level how you would do it but you go back the the questions list page on on the real website you'll. see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would
+to just to if to to that in all | guess be
+introduce one line 11 last piece of complexity we're not gonna have time for you code this out so perhaps you could like think about it and and explain me at a high level how you would do it but you go back the the questions list page on on the real website you'll. see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement
+to just to if to to that in all | guess be
+introduce one line 11 last piece of complexity we're not gonna have time for you code this out so perhaps you could like think about it and and explain me at a high level how you would do it but you go back the the questions list page on on the real website you'll. see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla
+to just to if to to that in all | guess be in JavaScript
+introduce one line 11 last piece of complexity we're not gonna have time for you code this out so perhaps you could like think about it and and explain me at a high level how you would do it but you go back the the questions list page on on the real website you'll. see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind
+to just to if to to that in all | guess be in JavaScript in that probably
+time for you code this out so perhaps you could like think about it and and explain me at a high level how you would do it but you go back the the questions list page on on the real website you'll. see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like
+to just to if to to that in all | guess be in JavaScript in that probably really tricky
+time for you code this out so perhaps you could like think about it and and explain me at a high level how you would do it but you go back the the questions list page on on the real website you'll. see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla
+to just to if to to that in all | guess be in JavaScript in that probably really tricky javascript
+about it and and explain me at a high level how you would do it but you go back the the questions list page on on the real website you'll. see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for
+to if to to that in all | guess be in JavaScript in that probably really tricky
+about it and and explain me at a high level how you would do it but you go back the the questions list page on on the real website you'll. see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state
+to if to to that in all | guess be in JavaScript in that probably really tricky management
+about it and and explain me at a high level how you would do it but you go back the the questions list page on on the real website you'll. see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries
+if to to that in all | guess be in JavaScript in that probably really tricky management react
+but you go back the the questions list page on on the real website you'll. see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do
+if to to that in all | guess be in JavaScript in that probably really tricky management react really shine
+but you go back the the questions list page on on the real website you'll. see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but
+if to to that in all | guess be in JavaScript in that probably really tricky management react really shine yeah
+but you go back the the questions list page on on the real website you'll. see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but how would you how would you go
+that in all | guess be in JavaScript in that probably really tricky management react really shine yeah
+website you'll. see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but how would you how would you go back implementing
+that in all | guess be in JavaScript in that probably really tricky management react really shine yeah
+website you'll. see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but how would you how would you go back implementing this so
+that in all | guess be in JavaScript in that probably really tricky management react really shine yeah when
+website you'll. see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but how would you how would you go back implementing this so so you hit group
+that in all | guess be in JavaScript in that probably really tricky management react really shine yeah when
+see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but how would you how would you go back implementing this so so you hit group randomly actually had
+that in all | guess be in JavaScript in that probably really tricky management react really shine yeah when | never played
+see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but how would you how would you go back implementing this so so you hit group randomly actually had with this
+that in all | guess be in JavaScript in that probably really tricky management react really shine yeah when | never played very much when
+see you can group the questions either by category which is the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but how would you how would you go back implementing this so so you hit group randomly actually had with this you had this is
+in all | guess be in JavaScript in that probably really tricky management react really shine yeah when | never played very much when it same
+the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but how would you how would you go back implementing this so so you hit group randomly actually had with this you had this is the groups
+in all | guess be in JavaScript in that probably really tricky management react really shine yeah when | never played very much when it same every time
+the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but how would you how would you go back implementing this so so you hit group randomly actually had with this you had this is the groups essentially like
+in all | guess be in JavaScript in that probably really tricky management react really shine yeah when | never played very much when it same every time not
+the default or randomly so randomly you know it's like a random order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but how would you how would you go back implementing this so so you hit group randomly actually had with this you had this is the groups essentially like it's like red
+in all | guess be in JavaScript in that probably really tricky management react really shine yeah when | never played very much when it same every time not regrouping when
+order of questions four columns and so my question would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but how would you how would you go back implementing this so so you hit group randomly actually had with this you had this is the groups essentially like it's like you do this
+be in JavaScript in that probably really tricky management react really shine yeah when | never played very much when it same every time not regrouping when sort
+would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but how would you how would you go back implementing this so so you hit group randomly actually had with this you had this is the groups essentially like it's like you do this of of
+be in JavaScript in that probably really tricky management react really shine yeah when | never played very much when it same every time not regrouping when sort sort
+would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but how would you how would you go back implementing this so so you hit group randomly actually had with this you had this is the groups essentially like it's like you do this of of actually if
+be in JavaScript in that probably really tricky management react really shine yeah when | never played very much when it same every time not regrouping when sort sort |
+would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but how would you how would you go back implementing this so so you hit group randomly actually had with this you had this is the groups essentially like it's like you do this of of actually if you if remember
+be in JavaScript in that probably really tricky management react really shine yeah when | never played very much when it same every time not regrouping when sort sort | correctly
+would how would you implement this vanilla keeping mind it's like with vanilla Java script you know for this this is where you know state and libraries like do but how would you how would you go back implementing this so so you hit group randomly actually had with this you had this is the groups essentially like it's like you do this of of actually if you if remember once you like
+in JavaScript in that probably really tricky management react really shine yeah when | never played very much when it same every time not regrouping when sort sort | correctly ed
+the groups essentially like it's like you do this of of actually if you if remember once you like edit the order of the random questions we save your order so then remains the and within a single session remains the but believe if you saved your order and you refresh to the page and you regrouped randomly would be a new group see okay so can of think of what. we could do this So the first would be we do this of
+it same every time not regrouping when sort sort | correctly it same it same | that never it | | sort when sort transformation
+the groups essentially like it's like you do this of of actually if you if remember once you like edit the order of the random questions we save your order so then remains the and within a single session remains the but believe if you saved your order and you refresh to the page and you regrouped randomly would be a new group see okay so can of think of what. we could do this So the first would be we do this of of
+when sort sort | correctly it same it same | that never it | | sort when sort transformation
+you do this of of actually if you if remember once you like edit the order of the random questions we save your order so then remains the and within a single session remains the but believe if you saved your order and you refresh to the page and you regrouped randomly would be a new group see okay so can of think of what. we could do this So the first would be we do this of of this to be
+ee when sort sort | correctly it same it same | that never it | I sort when sort transformation that object
+you do this of of actually if you if remember once you like edit the order of the random questions we save your order so then remains the and within a single session remains the but believe if you saved your order and you refresh to the page and you regrouped randomly would be a new group see okay so can of think of what. we could do this So the first would be we do this of of this to be by category
+it same it re | that never it | sort when sort transf that object
+of of actually if you if remember correctly once you like edit the order of the random questions we save your order so then remains the and within a single session remains the but believe if you saved your order and you refresh to the page and you regrouped randomly would be a new group see okay so I can of think of what. we could do this So the first would be we do this of transformation of this to be by category we could instead
+sort sort | it same it same | that never it | sort when sort that object
+eri elll —— ES S_ S, _A " of of actually if you if remember correctly once you like edit the order of the random questions we save your order so then remains the and within a single session remains the but believe if you saved your order and you refresh to the page and you regrouped randomly would be a new group see okay so can of think of what. we could do this So the first would be we do this of transformation of this to be by category we could instead just of
+sort sort | it same it same | that never it | | sort when sort that object sort have an array
+of of actually if you if remember correctly once you like edit the order of the random questions we save your order so then remains the and within a single session remains the but believe if you saved your order and you refresh to the page and you regrouped randomly would be a new group see okay so can of think of what. we could do this So the first would be we do this of transformation of this to be by category we could instead just of of however many
+sort sort | it same it same | that never it | | sort when sort that object sort have an array
+2 edit the order of the random questions we save your order so then remains the and within a single session remains the but believe if you saved your order and you refresh to the page and you regrouped randomly would be a new group see okay so can of think of what. we could do this So the first would be we do this of transformation of this to be by category we could instead just of of however many random categories we
+it same it same | that never it | | sort when sort that object sort have an array want
+edit the order of the random questions we save your order so then remains the and within a single session remains the but believe if you saved your order and you refresh to the page and you regrouped randomly would be a new group see okay so can of think of what. we could do this So the first would be we do this of transformation of this to be by category we could instead just of of however many random categories we so we could call
+it same it same | that never it | | sort when sort that object sort have an array want column
+edit the order of the random questions we save your order so then remains the and within a single session remains the but believe if you saved your order and you refresh to the page and you regrouped randomly would be a new group see okay so can of think of what. we could do this So the first would be we do this of transformation of this to be by category we could instead just of of however many random categories we so we could call the categories one two
+2 it same it same | that never it | I sort when sort that object sort have an array want column three four
+remains the and within a single session remains the but believe if you saved your order and you refresh to the page and you regrouped randomly would be a new group see okay so can of think of what. we could do this So the first would be we do this of transformation of this to be by category we could instead just of of however many random categories we so we could call the categories one two and and then
+2 it same it same | that never it | I sort when sort that object sort have an array want column three four when
+remains the and within a single session remains the but believe if you saved your order and you refresh to the page and you regrouped randomly would be a new group see okay so can of think of what. we could do this So the first would be we do this of transformation of this to be by category we could instead just of of however many random categories we so we could call the categories one two and and then we choose a category
+2 it same it same | that never it | I sort when sort that object sort have an array want column three four when for it
+remains the and within a single session remains the but believe if you saved your order and you refresh to the page and you regrouped randomly would be a new group see okay so can of think of what. we could do this So the first would be we do this of transformation of this to be by category we could instead just of of however many random categories we so we could call the categories one two and and then we choose a category just
+2 | that never it | I sort when sort that object sort have an array want column three four when for it sort
+but believe if you saved your order and you refresh to the page and you regrouped randomly would be a new group see okay so can of think of what. we could do this So the first would be we do this of transformation of this to be by category we could instead just of of however many random categories we so we could call the categories one two and and then we choose a category just of randomly choose one of
+2 | that never it | I sort when sort that object sort have an array want column three four when for it sort those four
+but believe if you saved your order and you refresh to the page and you regrouped randomly would be a new group see okay so can of think of what. we could do this So the first would be we do this of transformation of this to be by category we could instead just of of however many random categories we so we could call the categories one two and and then we choose a category just of randomly choose one of categories rather than using
+2 it | | sort when sort that object sort have an array want column three four when for it sort those four from
+Split€am) ne (Google) Compass) @ a > OUTLINE > TIMELINE PROBLE Fil ing.p: s Keybo: FES [Es Selec Selec
+Create image Upgrade plan
+MPU S pie Tools
+Create image Upgrade plan
+category to the arrays like we have but then also make the 2nd object that we're not using initially of this just like that random categories and then when you click the button just sort of change which one we're using and the other option | could see so that one would sort of when you click the button it would clear out the HTML and then it would just generate the HTL again. But for this new object we have the other option would be when we generate the H T L to generate the H T L twice and just sort of display none the one we're not currently using
+> OUTLINE > TIMELINE PROBLEI File PS E:\ Select Select n
+Tools Create image TInnrade nian
+PROBLEI
+Layer utilities sjustify-start { > OUTLINE justify-content } > TIMELINE Layer utilities -items-stretch { align-items: st t File Layer utilities Tools By itexcot ¢
+PROBLEI ailgep PROBLE PROBLEI @ | $08 S nN
+> OUTLINE > TIMELINE £33 > OUTLINE TIMELINE > OUT > TIME t File > TIM! A
+PROBLEI (2) $08 S TMElINE PROBLEI PROBLE PROBLE @ $08 S a
+> OUTLINE > TIMELINE File Tools «_prosemirror-parer white-space: > pl + Layer base *, ::backdrop, :aft border-color: » + Layer base backdrop, :aft border: » soli box-sizing: bord
+Create image Uparade plan
+Layer base Tools
+Create image
+
+Unarade vlan
+e
+A
+
+SplitGam
+
+ne
+
+MongoDB)
+Compass)
+
+@
+$93
+
+> OUTLINE
+> TIMELINE
+
+PROBL
+
+PS E
+Sele
+Sele
+Pres:
+Pres:
+Copii
+
+Unar:
+e
+A
+
+SplitGam
+
+ne
+
+MongoDB)
+Compass)
+
+@
+$93
+
+> OUTLINE
+> TIMELINE
+
+PROBL
+
+PS E
+Sele
+Sele
+Pres
+Pres
+Copi:
+
+Unar
+SplitGam
+
+ne
+
+Compass)
+
+$93
+
+> OUTLINE
+> TIMELINE
+
+Mong
+Comp.
+SplitGam
+
+ne
+
+Compass)
+
+$93
+
+> OUTLINE
+> TIMELINE
+
+Mong
+Comp.
+SplitGam
+
+ne
+
+Compass)
+
+$93
+
+> OUTLINE
+> TIMELINE
+
+Mong
+Comp.
+e
+A
+
+SplitGam
+
+ne
+
+MongoDb
+
+Compass)
+
+@
+$93
+
+> OUTLINE
+> TIMELINE
+
+PROBL
+
+$93
+
+> ov
+> TI
+
+Mong
+Comp
+|
+e
+A
+
+SplitGam
+
+ne
+
+Compass)
+
+> OUTLINE
+> TIMELINE
+
+PROBLEI
+
+it
+
+gC
+Keyboz
+PS E:\
+Select
+Select
+Press
+Press
+e
+A
+
+SplitGam
+
+ne
+
+Compass)
+
+> OUTLINE
+> TIMELINE
+
+PROBLEI
+
+gc
+
+Keyboz
+PS E:\
+Select
+Select
+Press
+Press
+MengoDs)
+Compass)
+
+> OUTLINE
+> TIMELINE
+
+PROBLEN
+
+it
+
+go
+Keyboa
+PS E:\
+Select
+Select
+Press
+Press
+MongoDB)
+Compass)
+
+> OUTLINE
+> TIMELINE
+
+PROBLEN
+
+go
+Keyboa
+
+PS E:\
+Select
+Select
+Press
+Press
+PROBLEN
+
+go
+MongoDB, Keyboa
+Compass)
+PS E:\
+(2) Select
+Select
+Press
+$e > OUTLINE PRESS
+> TIMELINE n
+e
+A
+
+SplitGam
+
+ne
+
+MongoDB)
+Compass)
+
+> OUTLINE
+> TIMELINE
+
+PROBLEN
+
+MongoD
+Compas
+PS E:\
+(2) Se
+Select
+Press
+
+$e > 0
+
+> TIME
+n
+PROBLEN
+
+(2) Se
+
+MongoDB) Select
+Compass) Press
+(2) $e >@
+
+> TIME
+
+$e > OUTLINE n
+n
+
+> TIMELINE
+SplitGam
+
+ne
+
+Compass)
+
+> OUTLINE
+> TIMELINE
+
+PROBLEN
+(2) $e
+> TIME
+
+$e >O
+n
+
+> TIME
+MongoDB)
+Compass)
+
+@
+$93
+
+> OUTLINE
+> TIMELINE
+
+PROBLEN
+
+PROBLE
+(2) $e
+> TIME
+
+$e >0
+n
+
+> TIME
+Upgrade
+
+JsJobbs
+
+Glassdoor Jobs
+
+Mobile Programming .
+
+TLC Careers
+Built In
+Glassdoor Jobs
+
+Safety Cybersecurit.
+
+Today's JavaScript J
+Full Stack Develope
+Thank you for applyit
+Continue to apply for
+New Senior Full-Stac
+Senior Frontend En.
+
+Thank you for applyit
+Upgrade
+
+JsJobbs
+
+Glassdoor Jobs
+
+Mobile Programming .
+
+TLC Careers
+Built In
+Glassdoor Jobs
+
+Safety Cybersecurit.
+
+Today's JavaScript J
+Full Stack Develope
+Thank you for applyit
+Continue to apply for
+New Senior Full-Stac
+Senior Frontend En.
+
+Thank you for applyit
+Upgrade
+
+JsJobbs
+
+Glassdoor Jobs
+
+Mobile Programming .
+
+TLC Careers
+Built In
+Glassdoor Jobs
+
+Safety Cybersecurit.
+
+Today's JavaScript J
+Full Stack Develope
+Thank you for applyit
+Continue to apply for
+New Senior Full-Stac
+Senior Frontend En.
+
+Thank you for applyit
+Upgrade
+
+JsJobbs
+
+Glassdoor Jobs
+
+Mobile Programming .
+
+TLC Careers
+Built In
+Glassdoor Jobs
+
+Safety Cybersecurit.
+
+Today's JavaScript J
+Full Stack Develope
+Thank you for applyit
+Continue to apply for
+New Senior Full-Stac
+Senior Frontend En.
+
+Thank you for applyit
+Upgrade
+
+JsJobbs
+
+Glassdoor Jobs
+
+Mobile Programming .
+
+TLC Careers
+Built In
+Glassdoor Jobs
+
+Safety Cybersecurit.
+
+Today's JavaScript J
+Full Stack Develope
+Thank you for applyit
+Continue to apply for
+New Senior Full-Stac
+Senior Frontend En.
+
+Thank you for applyit
+Upgrade
+
+JsJobbs
+
+Glassdoor Jobs
+
+Mobile Programming .
+
+TLC Careers
+Built In
+Glassdoor Jobs
+
+Safety Cybersecurit.
+
+Today's JavaScript J
+Full Stack Develope
+Thank you for applyit
+Continue to apply for
+New Senior Full-Stac
+Senior Frontend En.
+
+Thank you for applyit
+Ready to show live captions in English (United States)
+We can better create this. Ok, so let's come over here, and | will
+paste in the constant.
+And looks like
+We can better create this. Ok, so let's come over here, and | will
+paste in the constant.
+And looks like that Google Docs changed the type of string
+We can better create this. Ok, so let's come over here, and | will
+paste in the constant.
+And looks like that Google Docs changed the type of string. Okay
+We can better create this. Ok, so let's come over here, and | will
+paste in the constant.
+
+And looks like that Google Docs changed the type of string. Okay,
+so let's
+We can better create this. Ok, so let's come over here, and | will
+paste in the constant.
+
+And looks like that Google Docs changed the type of string. Okay,
+so let's so let's start by just first getting that data, like we said. So I'll
+create a function. This will be an async function, since we're going
+to need to use fetch
+We can better create this. Ok, so let's come over here, and | will
+paste in the constant.
+
+And looks like that Google Docs changed the type of string. Okay,
+so let's so let's start by just first getting that data, like we said. So I'll
+create a function. This will be an async function, since we're going
+to need to use fetch. So we can say, async function
+We can better create this. Ok, so let's come over here, and | will
+paste in the constant.
+
+And looks like that Google Docs changed the type of string. Okay,
+so let's so let's start by just first getting that data, like we said. So I'll
+create a function. This will be an async function, since we're going
+to need to use fetch. So we can say, async function, and I'll just call
+it fetch
+We can better create this. Ok, so let's come over here, and | will
+paste in the constant.
+
+And looks like that Google Docs changed the type of string. Okay,
+so let's so let's start by just first getting that data, like we said. So I'll
+create a function. This will be an async function, since we're going
+to need to use fetch. So we can say, async function, and I'll just call
+it fetch questions.
+
+Okay. So in this function
+We can better create this. Ok, so let's come over here, and | will
+paste in the constant.
+
+And looks like that Google Docs changed the type of string. Okay,
+so let's so let's start by just first getting that data, like we said. So I'll
+create a function. This will be an async function, since we're going
+to need to use fetch. So we can say, async function, and I'll just call
+it fetch questions.
+
+Okay. So in this function, we need to first call
+We can better create this. Ok, so let's come over here, and | will
+paste in the constant.
+
+And looks like that Google Docs changed the type of string. Okay,
+so let's so let's start by just first getting that data, like we said. So I'll
+create a function. This will be an async function, since we're going
+to need to use fetch. So we can say, async function, and I'll just call
+it fetch questions.
+
+Okay. So in this function, we need to first call fetch
+We can better create this. Ok, so let's come over here, and | will
+paste in the constant.
+
+And looks like that Google Docs changed the type of string. Okay,
+so let's so let's start by just first getting that data, like we said. So I'll
+create a function. This will be an async function, since we're going
+to need to use fetch. So we can say, async function, and I'll just call
+it fetch questions.
+
+Okay. So in this function, we need to first call fetch
+
+And | take it this is just a
+We can better create this. Ok, so let's come over here, and | will
+paste in the constant.
+
+And looks like that Google Docs changed the type of string. Okay,
+so let's so let's start by just first getting that data, like we said. So I'll
+create a function. This will be an async function, since we're going
+to need to use fetch. So we can say, async function, and I'll just call
+it fetch questions.
+
+Okay. So in this function, we need to first call fetch
+
+And | take it this is just a get request, and we don't need any
+We can better create this. Ok, so let's come over here, and | will
+paste in the constant.
+
+And looks like that Google Docs changed the type of string. Okay,
+so let's so let's start by just first getting that data, like we said. So I'll
+create a function. This will be an async function, since we're going
+to need to use fetch. So we can say, async function, and I'll just call
+it fetch questions.
+
+Okay. So in this function, we need to first call fetch
+
+And | take it this is just a get request, and we don't need any like
+parameters to the url
+create a function. This will be an async function, since we're going
+to need to use fetch. So we can say, async function, and I'll just call
+it fetch questions.
+
+Okay. So in this function, we need to first call fetch
+
+And | take it this is just a get request, and we don't need any like
+parameters to the url, anything like that. Yep, no parameters just to
+get request. Cool. So we can just say fetch the url that you gave me
+and we'll need to await this. So let's say const response equals the.
+weight fetch and then.
+
+the
+to need to use fetch. So we can say, async function, and I'll just call
+it fetch questions.
+
+Okay. So in this function, we need to first call fetch
+
+And | take it this is just a get request, and we don't need any like
+parameters to the url, anything like that. Yep, no parameters just to
+get request. Cool. So we can just say fetch the url that you gave me
+and we'll need to await this. So let's say const response equals the.
+weight fetch and then.
+
+the response is going to be JSON. So we can say constant
+questions
+questions so this will return that array and then we also are going
+to want to take these questions and transform them like | said so
+let's make another function that is going to take in the questions
+and return them in this sort of transformed way so we can say
+function and let's call this | don't know let's say get.
+
+questions by category OK
+
+and this will take in the questions which is that array
+
+and let's see so we need to first of all iterate through the array and
+add to some object based on the categories. So we can first of all
+create the object so constant
+question
+
+and make an arrow function.
+
+So what do we need to do here? So we need to add two questions
+by category at the.
+
+the category as the like the key but we need to know if that's
+already there or not so we can say if questions by category and
+
+we need to do | guess has own properties that we can say if it's
+the object dot has own maybe.
+
+it's just questioned by category that has own property always forge
+if
+question
+
+and make an arrow function.
+
+So what do we need to do here? So we need to add two questions
+by category at the.
+
+the category as the like the key but we need to know if that's
+already there or not so we can say if questions by category and
+
+we need to do | guess has own properties that we can say if it's
+the object dot has own maybe.
+
+it's just questioned by category that has own property always forge
+if it's part of the object class or just like this
+and make an arrow function.
+
+So what do we need to do here? So we need to add two questions
+by category at the.
+
+the category as the like the key but we need to know if that's
+already there or not so we can say if questions by category and
+
+we need to do | guess has own properties that we can say if it's
+the object dot has own maybe.
+
+it's just questioned by category that has own property always forge
+if it's part of the object class or just like this but has own property |
+think it's this
+So what do we need to do here? So we need to add two questions
+by category at the.
+
+the category as the like the key but we need to know if that's
+already there or not so we can say if questions by category and
+
+we need to do | guess has own properties that we can say if it's
+the object dot has own maybe.
+
+it's just questioned by category that has own property always forge
+if it's part of the object class or just like this but has own property |
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the
+So what do we need to do here? So we need to add two questions
+by category at the.
+
+the category as the like the key but we need to know if that's
+already there or not so we can say if questions by category and
+
+we need to do | guess has own properties that we can say if it's
+the object dot has own maybe.
+
+it's just questioned by category that has own property always forge
+if it's part of the object class or just like this but has own property |
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the question category
+by category at the.
+
+the category as the like the key but we need to know if that's
+already there or not so we can say if questions by category and
+
+we need to do | guess has own properties that we can say if it's
+the object dot has own maybe.
+
+it's just questioned by category that has own property always forge
+if it's part of the object class or just like this but has own property |
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the question category so we can say question dot
+category
+by category at the.
+
+the category as the like the key but we need to know if that's
+already there or not so we can say if questions by category and
+
+we need to do | guess has own properties that we can say if it's
+the object dot has own maybe.
+
+it's just questioned by category that has own property always forge
+if it's part of the object class or just like this but has own property |
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the question category so we can say question dot
+category OK
+the category as the like the key but we need to know if that's
+already there or not so we can say if questions by category and
+
+we need to do | guess has own properties that we can say if it's
+the object dot has own maybe.
+
+it's just questioned by category that has own property always forge
+if it's part of the object class or just like this but has own property |
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the question category so we can say question dot
+category OK
+
+so this is going to be the case where
+already there or not so we can say if questions by category and
+
+we need to do | guess has own properties that we can say if it's
+the object dot has own maybe.
+
+it's just questioned by category that has own property always forge
+if it's part of the object class or just like this but has own property |
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the question category so we can say question dot
+category OK
+
+so this is going to be the case where we already found some
+question
+we need to do | guess has own properties that we can say if it's
+the object dot has own maybe.
+
+it's just questioned by category that has own property always forge
+if it's part of the object class or just like this but has own property |
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the question category so we can say question dot
+category OK
+
+so this is going to be the case where we already found some
+question that is in this category and in that case we can say
+questions by category
+we need to do | guess has own properties that we can say if it's
+the object dot has own maybe.
+
+it's just questioned by category that has own property always forge
+if it's part of the object class or just like this but has own property |
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the question category so we can say question dot
+category OK
+
+so this is going to be the case where we already found some
+question that is in this category and in that case we can say
+questions by category at
+we need to do | guess has own properties that we can say if it's
+the object dot has own maybe.
+
+it's just questioned by category that has own property always forge
+if it's part of the object class or just like this but has own property |
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the question category so we can say question dot
+category OK
+
+so this is going to be the case where we already found some
+question that is in this category and in that case we can say
+questions by category at question.
+the object dot has own maybe.
+
+it's just questioned by category that has own property always forge
+if it's part of the object class or just like this but has own property |
+think it's this we'll see in a moment | guess see if this works So we
+need to take in the question category so we can say question dot
+category OK
+
+so this is going to be the case where we already found some
+question that is in this category and in that case we can say
+questions by category at question.
+
+dot category is going to need to add this
+that category and create all of these divs.
+
+OK, so let's do function
+
+create category.
+
+Okay, so the first thing we need to do is just create this wrapper
+division we have.
+
+So we can say, constivate document dot create elements. And we
+will create a division. And we can say div dot classlist dot add the
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category
+that category and create all of these divs.
+
+OK, so let's do function
+
+create category.
+
+Okay, so the first thing we need to do is just create this wrapper
+division we have.
+
+So we can say, constivate document dot create elements. And we
+will create a division. And we can say div dot classlist dot add the
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category in an H2. So we can create that H2
+that category and create all of these divs.
+
+OK, so let's do function
+
+create category.
+
+Okay, so the first thing we need to do is just create this wrapper
+division we have.
+
+So we can say, constivate document dot create elements. And we
+will create a division. And we can say div dot classlist dot add the
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category in an H2. So we can create that H2 constant H2
+that category and create all of these divs.
+
+OK, so let's do function
+
+create category.
+
+Okay, so the first thing we need to do is just create this wrapper
+
+division we have.
+
+So we can say, constivate document dot create elements. And we
+
+will create a division. And we can say div dot classlist dot add the
+
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category in an H2. So we can create that H2 constant H2 equals
+OK, so let's do function
+
+create category.
+
+Okay, so the first thing we need to do is just create this wrapper
+division we have.
+
+So we can say, constivate document dot create elements. And we
+will create a division. And we can say div dot classlist dot add the
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category in an H2. So we can create that H2 constant H2 equals
+documents
+OK, so let's do function
+
+create category.
+
+Okay, so the first thing we need to do is just create this wrapper
+division we have.
+
+So we can say, constivate document dot create elements. And we
+will create a division. And we can say div dot classlist dot add the
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category in an H2. So we can create that H2 constant H2 equals
+documents dot create
+OK, so let's do function
+
+create category.
+
+Okay, so the first thing we need to do is just create this wrapper
+division we have.
+
+So we can say, constivate document dot create elements. And we
+will create a division. And we can say div dot classlist dot add the
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category in an H2. So we can create that H2 constant H2 equals
+documents dot create element
+OK, so let's do function
+
+create category.
+
+Okay, so the first thing we need to do is just create this wrapper
+division we have.
+
+So we can say, constivate document dot create elements. And we
+will create a division. And we can say div dot classlist dot add the
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category in an H2. So we can create that H2 constant H2 equals
+documents dot create element. And H
+OK, so let's do function
+
+create category.
+
+Okay, so the first thing we need to do is just create this wrapper
+division we have.
+
+So we can say, constivate document dot create elements. And we
+will create a division. And we can say div dot classlist dot add the
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category in an H2. So we can create that H2 constant H2 equals
+documents dot create element. And H2
+OK, so let's do function
+
+create category.
+
+Okay, so the first thing we need to do is just create this wrapper
+division we have.
+
+So we can say, constivate document dot create elements. And we
+will create a division. And we can say div dot classlist dot add the
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category in an H2. So we can create that H2 constant H2 equals
+documents dot create element. And H2
+OK, so let's do function
+
+create category.
+
+Okay, so the first thing we need to do is just create this wrapper
+division we have.
+
+So we can say, constivate document dot create elements. And we
+will create a division. And we can say div dot classlist dot add the
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category in an H2. So we can create that H2 constant H2 equals
+documents dot create element. And H2
+So we can say, constivate document dot create elements. And we
+will create a division. And we can say div dot classlist dot add the
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category in an H2. So we can create that H2 constant H2 equals
+documents dot create element. And H2 and the.
+
+H2 is going to have some text content. So we can say, H2 dot text
+content is going to be equal to the category, which | guess we can
+make a parameter.
+
+And then we need all of the
+So we can say, constivate document dot create elements. And we
+will create a division. And we can say div dot classlist dot add the
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category in an H2. So we can create that H2 constant H2 equals
+documents dot create element. And H2 and the.
+
+H2 is going to have some text content. So we can say, H2 dot text
+content is going to be equal to the category, which | guess we can
+make a parameter.
+
+And then we need all of the
+So we can say, constivate document dot create elements. And we
+will create a division. And we can say div dot classlist dot add the
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category in an H2. So we can create that H2 constant H2 equals
+documents dot create element. And H2 and the.
+
+H2 is going to have some text content. So we can say, H2 dot text
+content is going to be equal to the category, which | guess we can
+make a parameter.
+
+And then we need all of the
+So we can say, constivate document dot create elements. And we
+will create a division. And we can say div dot classlist dot add the
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category in an H2. So we can create that H2 constant H2 equals
+documents dot create element. And H2 and the.
+
+H2 is going to have some text content. So we can say, H2 dot text
+content is going to be equal to the category, which | guess we can
+make a parameter.
+
+And then we need all of the questions
+So we can say, constivate document dot create elements. And we
+will create a division. And we can say div dot classlist dot add the
+category class.
+
+OK, and then the first thing inside of the division is the name of the
+category in an H2. So we can create that H2 constant H2 equals
+documents dot create element. And H2 and the.
+
+H2 is going to have some text content. So we can say, H2 dot text
+content is going to be equal to the category, which | guess we can
+make a parameter.
+
+And then we need all of the questions. So we can say questions
+and let's iterate through the questions. So this questions is going t
+be the array that we added in questions by category. So it is sort of
+this array or the array that we were pushing to
+
+So let's say questions .for each.
+
+question.
+
+And let's see what do we need to do. So we need to create a div
+with the class of question. So constant question div just to give it a
+different name than the outer div is going to be equal to
+documents dot create element of a div and then we need to give it
+the question class. So question div dot class list dot add question
+and then it needs an H3 inside of it as well. So constant H3 is goinc
+to be document dot create element of an H3
+
+and then we need to set the text content of that H3. So H3 dot text
+content is going to be equal to the.
+
+question and we need to get from the API the name. So question
+dot name.
+
+okay. And then | guess we need to actually append all of these
+things to each other. So
+
+we can say question div dot append the H 3.
+
+So this will add
+and then it needs an H3 inside of it as well. So constant H3 is goinc
+to be document dot create element of an H3
+
+and then we need to set the text content of that H3. So H3 dot text
+content is going to be equal to the.
+
+question and we need to get from the API the name. So question
+dot name.
+
+okay. And then | guess we need to actually append all of these
+things to each other. So
+
+we can say question div dot append the H 3.
+
+So this will add the H three to the
+and then it needs an H3 inside of it as well. So constant H3 is goinc
+to be document dot create element of an H3
+and then we need to set the text content of that H3. So H3 dot text
+content is going to be equal to the.
+question and we need to get from the API the name. So question
+dot name.
+okay. And then | guess we need to actually append all of these
+things to each other. So
+we can say question div dot append the H 3.
+
+So this will add the H three to the question
+and then it needs an H3 inside of it as well. So constant H3 is goinc
+to be document dot create element of an H3
+and then we need to set the text content of that H3. So H3 dot text
+content is going to be equal to the.
+question and we need to get from the API the name. So question
+dot name.
+okay. And then | guess we need to actually append all of these
+things to each other. So
+we can say question div dot append the H 3.
+
+So this will add the H three to the question div
+and then it needs an H3 inside of it as well. So constant H3 is goinc
+to be document dot create element of an H3
+and then we need to set the text content of that H3. So H3 dot text
+content is going to be equal to the.
+question and we need to get from the API the name. So question
+dot name.
+okay. And then | guess we need to actually append all of these
+things to each other. So
+we can say question div dot append the H 3.
+
+So this will add the H three to the question div and then we
+to be document dot create element of an H3
+
+and then we need to set the text content of that H3. So H3 dot text
+content is going to be equal to the.
+
+question and we need to get from the API the name. So question
+dot name.
+
+okay. And then | guess we need to actually append all of these
+things to each other. So
+
+we can say question div dot append the H 3.
+
+So this will add the H three to the question div and then we need t
+add
+pointed out on the front expert page there is an order like the orde
+is always the same for the purpose of this question don't worry
+about the order
+
+So however you know the way you you structured your code all the
+categories are gonna be in your object. Don't worry about you
+know what order they're in the object in okay cool awesome. So to
+iterate through the object | guess there's a few ways we can do it
+but | kind of like the object dot entries functions let's do or for
+constant and we'll have the key and then the values. | guess the ke
+is the category and the value
+is always the same for the purpose of this question don't worry
+about the order
+
+So however you know the way you you structured your code all the
+categories are gonna be in your object. Don't worry about you
+know what order they're in the object in okay cool awesome. So to
+iterate through the object | guess there's a few ways we can do it
+but | kind of like the object dot entries functions let's do or for
+constant and we'll have the key and then the values. | guess the ke
+is the category and the value is the questions.
+
+and this will
+about the order
+
+So however you know the way you you structured your code all the
+categories are gonna be in your object. Don't worry about you
+know what order they're in the object in okay cool awesome. So to
+iterate through the object | guess there's a few ways we can do it
+but | kind of like the object dot entries functions let's do or for
+constant and we'll have the key and then the values. | guess the ke
+is the category and the value is the questions.
+
+and this will be of object dot entries question.
+
+by category
+about the order
+
+So however you know the way you you structured your code all the
+categories are gonna be in your object. Don't worry about you
+know what order they're in the object in okay cool awesome. So to
+iterate through the object | guess there's a few ways we can do it
+but | kind of like the object dot entries functions let's do or for
+constant and we'll have the key and then the values. | guess the ke
+is the category and the value is the questions.
+
+and this will be of object dot entries question.
+
+by category
+is the category and the value is the questions.
+
+and this will be of object dot entries question.
+
+by category
+
+OK so this just iterates through the object gets every category and
+the questions for that category so then we can say
+
+constant category is equal to create category and we can just pass
+in the category and the questions and then we just need to appenc
+this to the page so we can get that wrapper that you said we had.
+So document dot get element by ID
+
+the wrapper and I'll do this
+OK so this just iterates through the object gets every category and
+the questions for that category so then we can say
+
+constant category is equal to create category and we can just pass
+in the category and the questions and then we just need to appenc
+this to the page so we can get that wrapper that you said we had.
+So document dot get element by ID
+
+the wrapper and I'll do this at the top of the function just so we
+only have to do it one time or the top of the 4 loop so.
+
+OK and let me just double check.
+
+it is. Yeah, it is
+the questions for that category so then we can say
+
+constant category is equal to create category and we can just pass
+in the category and the questions and then we just need to appenc
+this to the page so we can get that wrapper that you said we had.
+So document dot get element by ID
+
+the wrapper and I'll do this at the top of the function just so we
+only have to do it one time or the top of the 4 loop so.
+
+OK and let me just double check.
+
+it is. Yeah, it is an ID for the wrapper. Okay, cool. So
+
+we get the wrapper and then
+it is. Yeah, it is an ID for the wrapper. Okay, cool. So
+
+we get the wrapper and then we just need to append the category
+to the wrappers so we can say wrapper dot append.
+
+the category and
+
+let's see
+
+Ohh it's reusing the name so we can say category div here div.
+
+like that.
+
+and let's see. So now we need to actually call this function.
+
+and ooh It actually worked on the first shot. Okay. Connor, my
+shared screen is a tiny bit buggy, so | can't fully see
+completed correctly submitted all 25 questions. But so that's what
+we're going to be handling now, to kind of explain to you how that
+works
+That is, you know, user data. In other words, the questions list that
+you fetched before, that was static data that, you know, every user
+shares, right? The static list of questions. But here for submissions,
+it's relevant to your account. So you're going to need to issue
+another api call. And if you go to the Google Docs page that | gave
+you on the second page, there is all the information related to these
+submission
+completed correctly submitted all 25 questions. But so that's what
+we're going to be handling now, to kind of explain to you how that
+works
+That is, you know, user data. In other words, the questions list that
+you fetched before, that was static data that, you know, every user
+shares, right? The static list of questions. But here for submissions,
+it's relevant to your account. So you're going to need to issue
+another api call. And if you go to the Google Docs page that | gave
+you on the second page, there is all the information related to these
+submissions. So you have a new ap
+completed correctly submitted all 25 questions. But so that's what
+we're going to be handling now, to kind of explain to you how that
+works
+That is, you know, user data. In other words, the questions list that
+you fetched before, that was static data that, you know, every user
+shares, right? The static list of questions. But here for submissions,
+it's relevant to your account. So you're going to need to issue
+another api call. And if you go to the Google Docs page that | gave
+you on the second page, there is all the information related to these
+submissions. So you have a new api call that is going to
+we're going to be handling now, to kind of explain to you how that
+works
+That is, you know, user data. In other words, the questions list that
+you fetched before, that was static data that, you know, every user
+shares, right? The static list of questions. But here for submissions,
+it's relevant to your account. So you're going to need to issue
+another api call. And if you go to the Google Docs page that | gave
+you on the second page, there is all the information related to these
+submissions. So you have a new api call that is going to return to
+you
+we're going to be handling now, to kind of explain to you how that
+works
+That is, you know, user data. In other words, the questions list that
+you fetched before, that was static data that, you know, every user
+shares, right? The static list of questions. But here for submissions,
+it's relevant to your account. So you're going to need to issue
+another api call. And if you go to the Google Docs page that | gave
+you on the second page, there is all the information related to these
+submissions. So you have a new api call that is going to return to
+you, your
+we're going to be handling now, to kind of explain to you how that
+works
+That is, you know, user data. In other words, the questions list that
+you fetched before, that was static data that, you know, every user
+shares, right? The static list of questions. But here for submissions,
+it's relevant to your account. So you're going to need to issue
+another api call. And if you go to the Google Docs page that | gave
+you on the second page, there is all the information related to these
+submissions. So you have a new api call that is going to return to
+you, your account specific
+works
+That is, you know, user data. In other words, the questions list that
+you fetched before, that was static data that, you know, every user
+shares, right? The static list of questions. But here for submissions,
+it's relevant to your account. So you're going to need to issue
+another api call. And if you go to the Google Docs page that | gave
+you on the second page, there is all the information related to these
+submissions. So you have a new api call that is going to return to
+you your account specific.
+submissions
+works
+That is, you know, user data. In other words, the questions list that
+you fetched before, that was static data that, you know, every user
+shares, right? The static list of questions. But here for submissions,
+it's relevant to your account. So you're going to need to issue
+another api call. And if you go to the Google Docs page that | gave
+you on the second page, there is all the information related to these
+submissions. So you have a new api call that is going to return to
+you your account specific.
+submissions for every question. So
+works
+That is, you know, user data. In other words, the questions list that
+you fetched before, that was static data that, you know, every user
+shares, right? The static list of questions. But here for submissions,
+it's relevant to your account. So you're going to need to issue
+another api call. And if you go to the Google Docs page that | gave
+you on the second page, there is all the information related to these
+submissions. So you have a new api call that is going to return to
+you your account specific.
+submissions for every question. So that is an array of objects
+another api call. And if you go to the Google Docs page that | gave
+you on the second page, there is all the information related to these
+submissions. So you have a new api call that is going to return to
+you your account specific.
+submissions for every question. So that is an array of objects where
+every object has a question ID, which is the unique identifier of the
+front end expert question. And if you remember correctly, in the
+first api call, every question object also had an id. That was a unique
+identifier, even though you didn't use it so far. And then the 2nd
+entry
+another api call. And if you go to the Google Docs page that | gave
+you on the second page, there is all the information related to these
+submissions. So you have a new api call that is going to return to
+you your account specific.
+submissions for every question. So that is an array of objects where
+every object has a question ID, which is the unique identifier of the
+front end expert question. And if you remember correctly, in the
+first api call, every question object also had an id. That was a unique
+identifier, even though you didn't use it so far. And then the 2nd
+entry or property in these objects is going to be
+And | guess one final thing on top of this, you might remember that
+on the questions list, every category at the top in the heading
+shows how many questions out of how many have been submitted.
+So like, you know, you have dumb manipulation 8 out of eight. So
+you're an aim to add that you know piece of the category title as
+well
+Okay okay sounds good. So.
+| guess let's start with just the API again worked out last time.
+So we can fetch all of this and
+this gives us an array back
+shows how many questions out of how many have been submitted.
+So like, you know, you have dumb manipulation 8 out of eight. So
+you're an aim to add that you know piece of the category title as
+well
+Okay okay sounds good. So.
+| guess let's start with just the API again worked out last time.
+So we can fetch all of this and
+this gives us an array back
+But | think we might want to transform.
+this one again like we did last time
+you're an aim to add that you know piece of the category title as
+well
+Okay okay sounds good. So.
+| guess let's start with just the API again worked out last time.
+So we can fetch all of this and
+this gives us an array back
+But | think we might want to transform.
+this one again like we did last time because the array is not very
+useful. I'm just sort of thinking about we need to integrate through
+every single
+well
+Okay okay sounds good. So.
+| guess let's start with just the API again worked out last time.
+So we can fetch all of this and
+this gives us an array back
+But | think we might want to transform.
+this one again like we did last time because the array is not very
+useful. I'm just sort of thinking about we need to integrate through
+every single question and then say we're on like item cart to check
+if item
+well
+Okay okay sounds good. So.
+| guess let's start with just the API again worked out last time.
+So we can fetch all of this and
+this gives us an array back
+But | think we might want to transform.
+this one again like we did last time because the array is not very
+useful. I'm just sort of thinking about we need to integrate through
+every single question and then say we're on like item cart to check
+if item cart was success
+Okay okay sounds good. So.
+| guess let's start with just the API again worked out last time.
+So we can fetch all of this and
+this gives us an array back
+But | think we might want to transform.
+this one again like we did last time because the array is not very
+useful. I'm just sort of thinking about we need to integrate through
+every single question and then say we're on like item cart to check
+if item cart was successfully submitted we would have to sort of
+search in that array every single time
+Okay okay sounds good. So.
+| guess let's start with just the API again worked out last time.
+So we can fetch all of this and
+this gives us an array back
+But | think we might want to transform.
+this one again like we did last time because the array is not very
+useful. I'm just sort of thinking about we need to integrate through
+every single question and then say we're on like item cart to check
+if item cart was successfully submitted we would have to sort of
+search in that array every single time
+| guess let's start with just the API again worked out last time.
+So we can fetch all of this and
+this gives us an array back
+But | think we might want to transform.
+this one again like we did last time because the array is not very
+useful. I'm just sort of thinking about we need to integrate through
+every single question and then say we're on like item cart to check
+if item cart was successfully submitted we would have to sort of
+search in that array every single time. So if instead we made an
+object we
+So we can fetch all of this and
+this gives us an array back
+But | think we might want to transform.
+this one again like we did last time because the array is not very
+useful. I'm just sort of thinking about we need to integrate through
+every single question and then say we're on like item cart to check
+if item cart was successfully submitted we would have to sort of
+search in that array every single time. So if instead we made an
+object we can do sort of like one pass through this array to make an
+object
+So we can fetch all of this and
+this gives us an array back
+But | think we might want to transform.
+this one again like we did last time because the array is not very
+useful. I'm just sort of thinking about we need to integrate through
+every single question and then say we're on like item cart to check
+if item cart was successfully submitted we would have to sort of
+search in that array every single time. So if instead we made an
+object we can do sort of like one pass through this array to make an
+object that is going to be question | D
+this gives us an array back
+But | think we might want to transform.
+this one again like we did last time because the array is not very
+useful. I'm just sort of thinking about we need to integrate through
+every single question and then say we're on like item cart to check
+if item cart was successfully submitted we would have to sort of
+search in that array every single time. So if instead we made an
+object we can do sort of like one pass through this array to make an
+object that is going to be question ID to the status
+that way we can do those lookups
+yeah. So let's also get the the.
+call to this submissions api. So submissions response is going to be
+await fetch and.
+let's paste the API up here. Looks like we have the same issue.
+with the string. Okay.
+So fetch the submissions api
+and let's see. So the way this is going to work right now is that this
+will happen. And because we awaited it, | don't think this other
+fetch call is going to happen until.
+the first one
+call to this submissions api. So submissions response is going to be
+await fetch and.
+let's paste the API up here. Looks like we have the same issue.
+with the string. Okay.
+So fetch the submissions api
+and let's see. So the way this is going to work right now is that this
+will happen. And because we awaited it, | don't think this other
+fetch call is going to happen until.
+the first one finishes
+So let's see we can do instead
+call to this submissions api. So submissions response is going to be
+await fetch and.
+let's paste the API up here. Looks like we have the same issue.
+with the string. Okay.
+So fetch the submissions api
+and let's see. So the way this is going to work right now is that this
+will happen. And because we awaited it, | don't think this other
+fetch call is going to happen until.
+the first one finishes
+So let's see we can do instead
+await fetch and.
+let's paste the API up here. Looks like we have the same issue.
+with the string. Okay.
+So fetch the submissions api
+and let's see. So the way this is going to work right now is that this
+will happen. And because we awaited it, | don't think this other
+fetch call is going to happen until.
+the first one finishes
+So let's see we can do instead
+promise

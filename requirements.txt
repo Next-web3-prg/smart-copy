@@ -1,0 +1,6 @@
+pillow
+pytesseract
+pyperclip
+pyautogui
+pygetwindow
+tk
